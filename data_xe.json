@@ -1,0 +1,44 @@
+[
+  {
+    "id": "0",
+    "hangxe": "Honda",
+    "tenxe": "Civic",
+    "doixe": "2018",
+    "content": "noi dung"
+  },
+  {
+    "id": "1",
+    "hangxe": "HuynDai",
+    "tenxe": "Santafe",
+    "doixe": "2018",
+    "content": "noi dung HuynDai"
+  },
+  {
+    "id": "2",
+    "hangxe": "HuynDai",
+    "tenxe": "Alantra",
+    "doixe": "2018",
+    "content": "noi dung Alantra 2018"
+  },
+  {
+    "id": "3",
+    "hangxe": "HuynDai",
+    "tenxe": "Alantra",
+    "doixe": "2019",
+    "content": "noi dung Alantra 2019"
+  },
+  {
+    "id": "4",
+    "hangxe": "Toyota",
+    "tenxe": "Fotuner",
+    "doixe": "2017",
+    "content": "noi dung Fotuner"
+  },
+  {
+    "id": "5",
+    "hangxe": "HuynDai",
+    "tenxe": "Santafe",
+    "doixe": "2019",
+    "content": "noi dung Santafe"
+  }
+]
