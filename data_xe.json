@@ -40,5 +40,26 @@
     "tenxe": "Santafe",
     "doixe": "2019",
     "content": "noi dung Santafe"
+  },
+  {
+    "id": "6",
+    "hangxe": "Mazda",
+    "tenxe": "CX5",
+    "doixe": "2019",
+    "content": "noi dung CX5 2019"
+  },
+  {
+    "id": "7",
+    "hangxe": "Mazda",
+    "tenxe": "Mazda 3",
+    "doixe": "2018",
+    "content": "noi dung CX5 2019"
+  },
+  {
+    "id": "8",
+    "hangxe": "Mazda",
+    "tenxe": "Mazda 6",
+    "doixe": "2019",
+    "content": "noi dung CX5 2019"
   }
 ]
