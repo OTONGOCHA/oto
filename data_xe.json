@@ -1,9 +1,56 @@
-[
-  {
-    "id": "0",
-    "hangxe": "Toyota",
-    "tenxe": "Altis",
-    "doixe": "2003-2007",
-    "content": "Ắc quy:45Ah",
+{
+    "id": "1",
+    "hangxe": "HuynDai",
+    "tenxe": "Santafe",
+    "doixe": "2018",
+    "content": "Thong so  HuynDai Santafe 2018"
   },
-]
+  {
+    "id": "2",
+    "hangxe": "HuynDai",
+    "tenxe": "Alantra",
+    "doixe": "2018",
+    "content": "Thong so  Alantra 2018"
+  },
+  {
+    "id": "3",
+    "hangxe": "HuynDai",
+    "tenxe": "Alantra",
+    "doixe": "2019",
+    "content": "Thong so  Alantra 2019"
+  },
+  {
+    "id": "4",
+    "hangxe": "Toyota",
+    "tenxe": "Fotuner",
+    "doixe": "2017",
+    "content": "Thong so  Fotuner"
+  },
+  {
+    "id": "5",
+    "hangxe": "HuynDai",
+    "tenxe": "Santafe",
+    "doixe": "2019",
+    "content": "Thong so  Santafe 2019"
+  },
+  {
+    "id": "6",
+    "hangxe": "Mazda",
+    "tenxe": "CX5",
+    "doixe": "2019",
+    "content": "Thong so  CX5 2019"
+  },
+  {
+    "id": "7",
+    "hangxe": "Mazda",
+    "tenxe": "Mazda 3",
+    "doixe": "2018",
+    "content": "Thong so  Mazda 3 2018"
+  },
+  {
+    "id": "8",
+    "hangxe": "Mazda",
+    "tenxe": "Mazda 6",
+    "doixe": "2019",
+    "content": "Thong so  Mazda 6 2019"
+  }
