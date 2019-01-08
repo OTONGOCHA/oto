@@ -207,32 +207,82 @@
     \n+ Lượng dầu:  ~4.7L"
   },
   {
-    "id": "2",
-    "hangxe": "Toyota",
-    "tenxe": "Altis",
-    "doixe": "2014-nay",
-    "content": "Thong so Altis"
-  },
-  {
-    "id": "3",
+    "id": "9",
     "hangxe": "Toyota",
     "tenxe": "Camry",
+    "doixe": "2015-nay",
+    "content": "THÔNG TIN: \n
+    \n* PHIÊN BẢN: Máy xăng - Sedan
+    \n+ Ắc quy:  
+    \n+ Bóng đèn:  
+    \n+ Gạt mưa trước:  
+    \n+ Gạt mưa sau: 
+    \n+ Lốp:  
+    \n+ Lọc nhớt:  
+    \n+ Lượng dầu:  
+    \n
+    \n* PHIÊN BẢN: Máy xăng - Sedan
+    \n+ Ắc quy:  
+    \n+ Bóng đèn:  
+    \n+ Gạt mưa trước:  
+    \n+ Gạt mưa sau: 
+    \n+ Lốp:  
+    \n+ Lọc nhớt:  
+    \n+ Lượng dầu:  "
+  },
+  {
+    "id": "10",
+    "hangxe": "Toyota",
+    "tenxe": "Vios",
     "doixe": "2002-2006",
-    "content": "Thong so xe"
+    "content": "THÔNG TIN: \n
+    \n* PHIÊN BẢN: 1.3 - Máy xăng - Sedan
+    \n+ Ắc quy:  
+    \n+ Bóng đèn:  Pha Cos chung: H4
+    \n+ Gạt mưa trước:  
+    \n+ Gạt mưa sau: 
+    \n+ Lốp:  185/60R15
+    \n+ Lọc nhớt:  041
+    \n+ Lượng dầu:  ~
   },
   {
-    "id": "4",
+    "id": "11",
     "hangxe": "Toyota",
-    "tenxe": "Camry",
-    "doixe": "2007-2012",
-    "content": "Thong so xe"
+    "tenxe": "Vios",
+    "doixe": "2007-2013",
+    "content": "THÔNG TIN: \n
+    \n* PHIÊN BẢN: 1.5 - Máy xăng - Sedan
+    \n+ Ắc quy:  45Ah L: nổi, không đế
+    \n+ Bóng đèn:  Pha Cos chung: H4
+    \n+ Gạt mưa trước:  24 ; 14
+    \n+ Gạt mưa sau: 
+    \n+ Lốp:  185/60R15
+    \n+ Lọc nhớt:  041
+    \n+ Lượng dầu:  ~3-3.5L
   },
   {
-    "id": "5",
-    "hangxe": "HuynDai",
-    "tenxe": "Santafe",
-    "doixe": "2018",
-    "content": "Thong so  HuynDai Santafe 2018"
+    "id": "12",
+    "hangxe": "Toyota",
+    "tenxe": "Vios",
+    "doixe": "2004-2018",
+    "content": "THÔNG TIN: \n
+    \n* PHIÊN BẢN: 1.5E - Số sàn - Máy xăng - Sedan
+    \n+ Ắc quy:  
+    \n+ Bóng đèn:  Pha Cos chung: H4
+    \n+ Gạt mưa trước:  24 ; 14
+    \n+ Gạt mưa sau: 
+    \n+ Lốp:  185/60R15
+    \n+ Lọc nhớt:  041
+    \n+ Lượng dầu:  ~3.0L
+    \n
+    \n* PHIÊN BẢN: 1.5G - Tự động - Máy xăng - Sedan
+    \n+ Ắc quy:  
+    \n+ Bóng đèn:  Bi xenon: HB3
+    \n+ Gạt mưa trước:  26 ; 18
+    \n+ Gạt mưa sau: 
+    \n+ Lốp:  185/60R15
+    \n+ Lọc nhớt:  041
+    \n+ Lượng dầu:  ~"
   },
   {
     "id": "6",
