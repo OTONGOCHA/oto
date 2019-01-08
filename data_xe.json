@@ -69,7 +69,7 @@
     "doixe": "2014-2016",
     "content": "THÔNG TIN: \n
     \n* PHIÊN BẢN: 1.8 - Máy xăng - Sedan
-    \n+ Ắc quy:  45Ah L:to, nổi, không đế
+    \n+ Ắc quy:  45Ah L: to, nổi, không đế
     \n+ Bóng đèn:  Pha HB3 - Cos HB4
     \n+ Gạt mưa trước: 
     \n+ Gạt mưa sau: 
@@ -78,13 +78,133 @@
     \n+ Lượng dầu:  
     \n
     \n* PHIÊN BẢN: 2.0 - Máy xăng - Sedan
-    \n+ Ắc quy:  45Ah L:to, nổi, không đế
+    \n+ Ắc quy:  45Ah L: to, nổi, không đế
     \n+ Bóng đèn:  Pha HB3 - Cos D2R
     \n+ Gạt mưa trước:  
     \n+ Gạt mưa sau: 
     \n+ Lốp:  
     \n+ Lọc nhớt:  189-giấy
     \n+ Lượng dầu:  "
+  },
+  {
+    "id": "4",
+    "hangxe": "Toyota",
+    "tenxe": "Altis",
+    "doixe": "2018-nay",
+    "content": "THÔNG TIN: \n
+    \n* PHIÊN BẢN: 1.8 - Máy xăng - Sedan
+    \n+ Ắc quy:  
+    \n+ Bóng đèn:  
+    \n+ Gạt mưa trước: 
+    \n+ Gạt mưa sau: 
+    \n+ Lốp:  
+    \n+ Lọc nhớt:  
+    \n+ Lượng dầu:  
+    \n
+    \n* PHIÊN BẢN: 2.0 - Máy xăng - Sedan
+    \n+ Ắc quy:  
+    \n+ Bóng đèn:  
+    \n+ Gạt mưa trước:  
+    \n+ Gạt mưa sau: 
+    \n+ Lốp:  
+    \n+ Lọc nhớt:  
+    \n+ Lượng dầu:  "
+  },
+  {
+    "id": "5",
+    "hangxe": "Toyota",
+    "tenxe": "Camry",
+    "doixe": "2002-2006",
+    "content": "THÔNG TIN: \n
+    \n* PHIÊN BẢN: Máy xăng - Sedan
+    \n+ Ắc quy:  
+    \n+ Bóng đèn:  
+    \n+ Gạt mưa trước:  24 ; 18
+    \n+ Gạt mưa sau: 
+    \n+ Lốp:  
+    \n+ Lọc nhớt:  043
+    \n+ Lượng dầu:  
+    \n
+    \n* PHIÊN BẢN: 
+    \n+ Ắc quy:  
+    \n+ Bóng đèn:  
+    \n+ Gạt mưa trước:  
+    \n+ Gạt mưa sau: 
+    \n+ Lốp:  
+    \n+ Lọc nhớt:  
+    \n+ Lượng dầu:  "
+  },
+  {
+    "id": "6",
+    "hangxe": "Toyota",
+    "tenxe": "Camry",
+    "doixe": "2007-2008",
+    "content": "THÔNG TIN: \n
+    \n* PHIÊN BẢN: Máy xăng - Sedan
+    \n+ Ắc quy:  
+    \n+ Bóng đèn:  
+    \n+ Gạt mưa trước:  
+    \n+ Gạt mưa sau: 
+    \n+ Lốp:  
+    \n+ Lọc nhớt:  
+    \n+ Lượng dầu:  
+    \n
+    \n* PHIÊN BẢN: 
+    \n+ Ắc quy:  
+    \n+ Bóng đèn:  
+    \n+ Gạt mưa trước:  
+    \n+ Gạt mưa sau: 
+    \n+ Lốp:  
+    \n+ Lọc nhớt:  
+    \n+ Lượng dầu:  "
+  },
+  {
+    "id": "7",
+    "hangxe": "Toyota",
+    "tenxe": "Camry",
+    "doixe": "2009-2012",
+    "content": "THÔNG TIN: \n
+    \n* PHIÊN BẢN: 2.0E - Máy xăng - Sedan
+    \n+ Ắc quy:  
+    \n+ Bóng đèn:  
+    \n+ Gạt mưa trước:  
+    \n+ Gạt mưa sau: 
+    \n+ Lốp:  
+    \n+ Lọc nhớt:  043
+    \n+ Lượng dầu:  ~4.0L
+    \n
+    \n* PHIÊN BẢN: 
+    \n+ Ắc quy:  
+    \n+ Bóng đèn:  
+    \n+ Gạt mưa trước:  
+    \n+ Gạt mưa sau: 
+    \n+ Lốp:  
+    \n+ Lọc nhớt:  
+    \n+ Lượng dầu:  "
+  },
+  {
+    "id": "8",
+    "hangxe": "Toyota",
+    "tenxe": "Camry",
+    "doixe": "2013-2014",
+    "content": "THÔNG TIN: \n
+    \n* PHIÊN BẢN: Máy xăng - Sedan
+    \n+ Ắc quy:  
+    \n+ Bóng đèn:  
+    \n+ Gạt mưa trước:  
+    \n+ Gạt mưa sau: 
+    \n+ Lốp:  
+    \n+ Lọc nhớt:  043
+    \n+ Lượng dầu:  ~4.0L
+    \n
+    \n* PHIÊN BẢN: 2.5Q - Máy xăng - Sedan
+    \n+ Ắc quy:  
+    \n+ Bóng đèn:  
+    \n+ Gạt mưa trước:  26 ; 18
+    \n+ Gạt mưa sau: 
+    \n+ Lốp:  
+    \n+ Lọc nhớt:  009-giấy
+    \n+ Lượng dầu:  ~4.7L"
   },
   {
     "id": "2",
