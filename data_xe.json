@@ -20,23 +20,71 @@
     "tenxe": "Altis",
     "doixe": "2008-2009",
     "content": "THÔNG TIN: \n
-    \n* PHIÊN BẢN: 1.8 - Máy xăng
+    \n* PHIÊN BẢN: 1.8 - Máy xăng - Sedan
     \n+ Ắc quy: 
     \n+ Bóng đèn:
     \n+ Gạt mưa trước:
     \n+ Gạt mưa sau: 
-    \n+ Lốp: 195/65R15
-    \n+ Lọc nhớt: 041
+    \n+ Lốp:  195/65R15
+    \n+ Lọc nhớt:  041
     \n+ Lượng dầu: 
     \n
-    \n* PHIÊN BẢN: 2.0 - Máy xăng
+    \n* PHIÊN BẢN: 2.0 - Máy xăng - Sedan
     \n+ Ắc quy: 
     \n+ Bóng đèn:
-    \n+ Gạt mưa trước: 26;14
+    \n+ Gạt mưa trước:  26 ; 14
     \n+ Gạt mưa sau: 
-    \n+ Lốp: 205/55R16
-    \n+ Lọc nhớt: 189-giấy
-    \n+ Lượng dầu: ~4.3L"
+    \n+ Lốp:  205/55R16
+    \n+ Lọc nhớt:  189-giấy
+    \n+ Lượng dầu:  ~4.3L"
+  },
+  {
+    "id": "2",
+    "hangxe": "Toyota",
+    "tenxe": "Altis",
+    "doixe": "2010-2013",
+    "content": "THÔNG TIN: \n
+    \n* PHIÊN BẢN: 1.8 - Máy xăng - Sedan
+    \n+ Ắc quy: 
+    \n+ Bóng đèn:
+    \n+ Gạt mưa trước:
+    \n+ Gạt mưa sau: 
+    \n+ Lốp:  
+    \n+ Lọc nhớt:  041
+    \n+ Lượng dầu:  ~4.3L
+    \n
+    \n* PHIÊN BẢN: 2.0 - Máy xăng - Sedan
+    \n+ Ắc quy: 
+    \n+ Bóng đèn:
+    \n+ Gạt mưa trước:  
+    \n+ Gạt mưa sau: 
+    \n+ Lốp:  
+    \n+ Lọc nhớt:  189-giấy
+    \n+ Lượng dầu:  "
+  },
+  {
+    "id": "3",
+    "hangxe": "Toyota",
+    "tenxe": "Altis",
+    "doixe": "2014-2016",
+    "content": "THÔNG TIN: \n
+    \n* PHIÊN BẢN: 1.8 - Máy xăng - Sedan
+    \n+ Ắc quy:  45Ah L:to, nổi, không đế
+    \n+ Bóng đèn:  Pha HB3 - Cos HB4
+    \n+ Gạt mưa trước: 
+    \n+ Gạt mưa sau: 
+    \n+ Lốp:  205/55R16
+    \n+ Lọc nhớt:  041
+    \n+ Lượng dầu:  
+    \n
+    \n* PHIÊN BẢN: 2.0 - Máy xăng - Sedan
+    \n+ Ắc quy:  45Ah L:to, nổi, không đế
+    \n+ Bóng đèn:  Pha HB3 - Cos D2R
+    \n+ Gạt mưa trước:  
+    \n+ Gạt mưa sau: 
+    \n+ Lốp:  
+    \n+ Lọc nhớt:  189-giấy
+    \n+ Lượng dầu:  "
   },
   {
     "id": "2",
