@@ -503,4 +503,64 @@
     \n+ Lọc nhớt:  042
     \n+ Lượng dầu:   Không lọc: ~ - Có lọc: ~"
   },
+  {
+    "id": "24",
+    "hangxe": "Toyota",
+    "tenxe": "Prado",
+    "doixe": "2006-2009",
+    "content": "THÔNG TIN: \n
+    \n* PHIÊN BẢN: 2.7 - Máy xăng - SUV
+    \n+ Ắc quy:  
+    \n+ Bóng đèn:  Pha Cos chung: H4
+    \n+ Gạt mưa trước:  
+    \n+ Gạt mưa sau:  
+    \n+ Lốp:  
+    \n+ Lọc nhớt:  042
+    \n+ Lượng dầu:   Không lọc: ~5L - Có lọc: ~5.5L"
+  },
+  {
+    "id": "25",
+    "hangxe": "Toyota",
+    "tenxe": "Prado",
+    "doixe": "2010-2013",
+    "content": "THÔNG TIN: \n
+    \n* PHIÊN BẢN: 2.7 - Máy xăng - SUV
+    \n+ Ắc quy:  
+    \n+ Bóng đèn:  Pha HB3 - Cos bi xenon: H11
+    \n+ Gạt mưa trước:  
+    \n+ Gạt mưa sau:  
+    \n+ Lốp:  
+    \n+ Lọc nhớt:  042
+    \n+ Lượng dầu:   Không lọc: ~5L - Có lọc: ~5.5L"
+  },
+  {
+    "id": "26",
+    "hangxe": "Toyota",
+    "tenxe": "Prado",
+    "doixe": "2014-2017",
+    "content": "THÔNG TIN: \n
+    \n* PHIÊN BẢN: 2.7 - Máy xăng - SUV
+    \n+ Ắc quy:  
+    \n+ Bóng đèn:  
+    \n+ Gạt mưa trước:  
+    \n+ Gạt mưa sau:  
+    \n+ Lốp:  
+    \n+ Lọc nhớt:  042
+    \n+ Lượng dầu:   Không lọc: ~L - Có lọc: ~L"
+  },
+  {
+    "id": "27",
+    "hangxe": "Toyota",
+    "tenxe": "Prado",
+    "doixe": "2018-nay",
+    "content": "THÔNG TIN: \n
+    \n* PHIÊN BẢN: 2.7 - Máy xăng - SUV
+    \n+ Ắc quy:  
+    \n+ Bóng đèn:  
+    \n+ Gạt mưa trước:  
+    \n+ Gạt mưa sau:  
+    \n+ Lốp:  
+    \n+ Lọc nhớt:  
+    \n+ Lượng dầu:   Không lọc: ~L - Có lọc: ~L"
+  },
 ]
