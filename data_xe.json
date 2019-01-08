@@ -264,7 +264,7 @@
     "id": "12",
     "hangxe": "Toyota",
     "tenxe": "Vios",
-    "doixe": "2004-2018",
+    "doixe": "2014-2018",
     "content": "THÔNG TIN: \n
     \n* PHIÊN BẢN: 1.5E - Số sàn - Máy xăng - Sedan
     \n+ Ắc quy:  
@@ -278,39 +278,98 @@
     \n* PHIÊN BẢN: 1.5G - Tự động - Máy xăng - Sedan
     \n+ Ắc quy:  
     \n+ Bóng đèn:  Bi xenon: HB3
-    \n+ Gạt mưa trước:  26 ; 18
+    \n+ Gạt mưa trước:  24 ; 14
     \n+ Gạt mưa sau: 
     \n+ Lốp:  185/60R15
     \n+ Lọc nhớt:  041
     \n+ Lượng dầu:  ~"
   },
   {
-    "id": "6",
-    "hangxe": "HuynDai",
-    "tenxe": "Alantra",
-    "doixe": "2018",
-    "content": "Thong so  Alantra 2018"
-  },
-  {
-    "id": "7",
-    "hangxe": "HuynDai",
-    "tenxe": "Alantra",
-    "doixe": "2019",
-    "content": "Thong so  Alantra 2019"
-  },
-  {
-    "id": "8",
+    "id": "13",
     "hangxe": "Toyota",
-    "tenxe": "Fotuner",
-    "doixe": "2017",
-    "content": "Thong so  Fotuner"
+    "tenxe": "Vios",
+    "doixe": "2019-nay",
+    "content": "THÔNG TIN: \n
+    \n* PHIÊN BẢN: 1.5E - Số sàn - Máy xăng - Sedan
+    \n+ Ắc quy:  
+    \n+ Bóng đèn:  
+    \n+ Gạt mưa trước:  24 ; 14
+    \n+ Gạt mưa sau: 
+    \n+ Lốp:  185/60R15
+    \n+ Lọc nhớt:  041
+    \n+ Lượng dầu:  ~3.0L
+    \n
+    \n* PHIÊN BẢN: 1.5G - Tự động - Máy xăng - Sedan
+    \n+ Ắc quy:  33Ah L: to, nổi, không đế
+    \n+ Bóng đèn:  
+    \n+ Gạt mưa trước:  24 ; 14
+    \n+ Gạt mưa sau: 
+    \n+ Lốp:  185/60R15
+    \n+ Lọc nhớt:  041
+    \n+ Lượng dầu:  ~"
   },
   {
-    "id": "9",
-    "hangxe": "HuynDai",
-    "tenxe": "Santafe",
-    "doixe": "2019",
-    "content": "Thong so  Santafe 2019"
+    "id": "14",
+    "hangxe": "Toyota",
+    "tenxe": "Yaris",
+    "doixe": "2005-2013",
+    "content": "THÔNG TIN: \n
+    \n* PHIÊN BẢN: 1.3E - Tự động - Máy xăng - Hatchback
+    \n+ Ắc quy:  
+    \n+ Bóng đèn:  Pha Cos chung: H4
+    \n+ Gạt mưa trước:  
+    \n+ Gạt mưa sau:  12
+    \n+ Lốp:  185/60R15
+    \n+ Lọc nhớt:  041
+    \n+ Lượng dầu:  ~3.0L
+  },
+  {
+    "id": "15",
+    "hangxe": "Toyota",
+    "tenxe": "Yaris",
+    "doixe": "2014-2018",
+    "content": "THÔNG TIN: \n
+    \n* PHIÊN BẢN: 1.3E - Máy xăng - Hatchback
+    \n+ Ắc quy:  
+    \n+ Bóng đèn:  Pha Cos chung: H4
+    \n+ Gạt mưa trước:  24 ; 14
+    \n+ Gạt mưa sau:  16
+    \n+ Lốp:  
+    \n+ Lọc nhớt:  041
+    \n+ Lượng dầu:  ~
+    \n
+    \n* PHIÊN BẢN: 1.3G - Tự động - Máy xăng - Hatchback
+    \n+ Ắc quy:  
+    \n+ Bóng đèn:  Bi xenon: HB3
+    \n+ Gạt mưa trước:  24 ; 14
+    \n+ Gạt mưa sau: 
+    \n+ Lốp:  185/60R15
+    \n+ Lọc nhớt:  041
+    \n+ Lượng dầu:  ~3.0L"
+  },
+  {
+    "id": "16",
+    "hangxe": "Toyota",
+    "tenxe": "Yaris",
+    "doixe": "2019-nay",
+    "content": "THÔNG TIN: \n
+    \n* PHIÊN BẢN: 1.2E - Máy xăng - Hatchback
+    \n+ Ắc quy:  
+    \n+ Bóng đèn:  
+    \n+ Gạt mưa trước:  
+    \n+ Gạt mưa sau:  
+    \n+ Lốp:  
+    \n+ Lọc nhớt:  
+    \n+ Lượng dầu:  ~
+    \n
+    \n* PHIÊN BẢN: 
+    \n+ Ắc quy:  
+    \n+ Bóng đèn:  
+    \n+ Gạt mưa trước:  
+    \n+ Gạt mưa sau: 
+    \n+ Lốp:  
+    \n+ Lọc nhớt:  
+    \n+ Lượng dầu:  ~"
   },
   {
     "id": "10",
