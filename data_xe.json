@@ -396,7 +396,7 @@
     \n+ Lượng dầu:  Không lọc: ~5L - Có lọc: ~5.5L"
   },
   {
-    "id": "17",
+    "id": "18",
     "hangxe": "Toyota",
     "tenxe": "Fortuner",
     "doixe": "2013-2016",
@@ -420,11 +420,87 @@
     \n+ Lượng dầu:  Không lọc: ~ - Có lọc: ~"
   },
   {
-    "id": "98",
-    "hangxe": "Mazda",
-    "tenxe": "Mazda 6",
-    "doixe": "2019",
-    "content": "Thong so  Mazda 6 2019\n
-    + Gạt mưa 1111"
-  }
+    "id": "19",
+    "hangxe": "Toyota",
+    "tenxe": "Fortuner",
+    "doixe": "2017-nay",
+    "content": "THÔNG TIN: \n
+    \n* PHIÊN BẢN: 2.4 - Máy dầu - SUV
+    \n+ Ắc quy:  
+    \n+ Bóng đèn:  
+    \n+ Gạt mưa trước:  22 ; 16
+    \n+ Gạt mưa sau:  12
+    \n+ Lốp:  
+    \n+ Lọc nhớt:  042
+    \n+ Lượng dầu:   Không lọc: ~ - Có lọc: ~
+    \n
+    \n* PHIÊN BẢN: Máy xăng - SUV
+    \n+ Ắc quy:  65Ah: chìm, có đế
+    \n+ Bóng đèn:  
+    \n+ Gạt mưa trước:  22 ; 16
+    \n+ Gạt mưa sau:  12
+    \n+ Lốp:  265/65R17
+    \n+ Lọc nhớt:  042
+    \n+ Lượng dầu:  Không lọc: ~ - Có lọc: ~"
+  },
+  {
+    "id": "20",
+    "hangxe": "Toyota",
+    "tenxe": "Innova",
+    "doixe": "2006-2008",
+    "content": "THÔNG TIN: \n
+    \n* PHIÊN BẢN: 2.0 - Máy xăng - MPV
+    \n+ Ắc quy:  
+    \n+ Bóng đèn:  
+    \n+ Gạt mưa trước:  
+    \n+ Gạt mưa sau:  
+    \n+ Lốp:  
+    \n+ Lọc nhớt:  042
+    \n+ Lượng dầu:   Không lọc: ~ - Có lọc: ~"
+  },
+  {
+    "id": "21",
+    "hangxe": "Toyota",
+    "tenxe": "Innova",
+    "doixe": "2009-2012",
+    "content": "THÔNG TIN: \n
+    \n* PHIÊN BẢN: 2.0 - Máy xăng - MPV
+    \n+ Ắc quy:  
+    \n+ Bóng đèn:  
+    \n+ Gạt mưa trước:  
+    \n+ Gạt mưa sau:  
+    \n+ Lốp:  
+    \n+ Lọc nhớt:  042
+    \n+ Lượng dầu:   Không lọc: ~ - Có lọc: ~5.5L"
+  },
+  {
+    "id": "22",
+    "hangxe": "Toyota",
+    "tenxe": "Innova",
+    "doixe": "2013-2016",
+    "content": "THÔNG TIN: \n
+    \n* PHIÊN BẢN: Máy xăng - MPV
+    \n+ Ắc quy:  
+    \n+ Bóng đèn:  
+    \n+ Gạt mưa trước:  
+    \n+ Gạt mưa sau:  
+    \n+ Lốp:  
+    \n+ Lọc nhớt:  042
+    \n+ Lượng dầu:   Không lọc: ~ - Có lọc: ~"
+  },
+  {
+    "id": "23",
+    "hangxe": "Toyota",
+    "tenxe": "Innova",
+    "doixe": "2017-nay",
+    "content": "THÔNG TIN: \n
+    \n* PHIÊN BẢN: 2.0 - Máy xăng - MPV
+    \n+ Ắc quy:  33Ah L: to, chìm, có đế
+    \n+ Bóng đèn:  Pha HB3 - Cos H11
+    \n+ Gạt mưa trước:  26 ; 16
+    \n+ Gạt mưa sau:  12
+    \n+ Lốp:  205/65R16
+    \n+ Lọc nhớt:  042
+    \n+ Lượng dầu:   Không lọc: ~ - Có lọc: ~"
+  },
 ]
