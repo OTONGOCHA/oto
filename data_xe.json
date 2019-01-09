@@ -320,6 +320,36 @@
   {
     "id": "14",
     "hangxe": "Toyota",
+    "tenxe": "Highlander",
+    "doixe": "2012",
+    "content": "THÔNG TIN: \n
+    \n* PHIÊN BẢN: 2.7 - Máy xăng - SUV
+    \n+ Ắc quy:  
+    \n+ Bóng đèn:  Pha HB3 - Cos bi xenon H11 
+    \n+ Gạt mưa trước:  26 ; 20
+    \n+ Gạt mưa sau:  
+    \n+ Lốp:  
+    \n+ Lọc nhớt:  041
+    \n+ Lượng dầu:   Không lọc: ~ L - Có lọc: ~ L"
+  },
+  {
+    "id": "15",
+    "hangxe": "Toyota",
+    "tenxe": "Highlander",
+    "doixe": "2016-nay",
+    "content": "THÔNG TIN: \n
+    \n* PHIÊN BẢN: 2.7 - Máy xăng - SUV
+    \n+ Ắc quy:  
+    \n+ Bóng đèn:  
+    \n+ Gạt mưa trước:  
+    \n+ Gạt mưa sau:  
+    \n+ Lốp:  
+    \n+ Lọc nhớt:  
+    \n+ Lượng dầu:   Không lọc: ~ L - Có lọc: ~ L"
+  },
+  {
+    "id": "14",
+    "hangxe": "Toyota",
     "tenxe": "Innova",
     "doixe": "2006-2008",
     "content": "THÔNG TIN: \n
@@ -348,7 +378,7 @@
     \n+ Lượng dầu:   Không lọc: ~ - Có lọc: ~5.5L"
   },
   {
-    "id": "22",
+    "id": "16",
     "hangxe": "Toyota",
     "tenxe": "Innova",
     "doixe": "2013-2016",
@@ -363,7 +393,7 @@
     \n+ Lượng dầu:   Không lọc: ~ - Có lọc: ~"
   },
   {
-    "id": "23",
+    "id": "17",
     "hangxe": "Toyota",
     "tenxe": "Innova",
     "doixe": "2017-nay",
