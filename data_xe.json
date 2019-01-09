@@ -1286,4 +1286,82 @@
     \n+ Lọc nhớt:  
     \n+ Lượng dầu:  Không lọc: ~L - Có lọc: ~L"
   },
+  {
+    "id": "72",
+    "hangxe": "Ford",
+    "tenxe": "Focus",
+    "doixe": "2004-2012",
+    "content": "THÔNG TIN: \n
+    \n* PHIÊN BẢN: Máy xăng - Hatchback
+    \n+ Ắc quy:  
+    \n+ Bóng đèn:  
+    \n+ Gạt mưa trước:   
+    \n+ Gạt mưa sau:  
+    \n+ Lốp:  
+    \n+ Lọc nhớt:  1S7G6714DA
+    \n+ Lượng dầu:   Không lọc: ~L - Có lọc: ~4.2L"
+  },
+  {
+    "id": "73",
+    "hangxe": "Ford",
+    "tenxe": "Focus",
+    "doixe": "2013-2014",
+    "content": "THÔNG TIN: \n
+    \n* PHIÊN BẢN: Máy xăng - Hatchback
+    \n+ Ắc quy:  
+    \n+ Bóng đèn:  
+    \n+ Gạt mưa trước:   
+    \n+ Gạt mưa sau:  
+    \n+ Lốp:  
+    \n+ Lọc nhớt:  
+    \n+ Lượng dầu:   Không lọc: ~L - Có lọc: ~L
+    \n
+    \n* PHIÊN BẢN: Máy xăng - Sedan
+    \n+ Ắc quy:  
+    \n+ Bóng đèn:  
+    \n+ Gạt mưa trước:  
+    \n+ Gạt mưa sau:  
+    \n+ Lốp:  
+    \n+ Lọc nhớt:  
+    \n+ Lượng dầu:  Không lọc: ~L - Có lọc: ~L"
+  },
+  {
+    "id": "74",
+    "hangxe": "Ford",
+    "tenxe": "Focus",
+    "doixe": "2015-nay",
+    "content": "THÔNG TIN: \n
+    \n* PHIÊN BẢN: Máy xăng - Hatchback
+    \n+ Ắc quy:  
+    \n+ Bóng đèn:  
+    \n+ Gạt mưa trước:  29 ; 19  
+    \n+ Gạt mưa sau:  
+    \n+ Lốp:  
+    \n+ Lọc nhớt:  
+    \n+ Lượng dầu:   Không lọc: ~L - Có lọc: ~L
+    \n
+    \n* PHIÊN BẢN: Máy xăng - Sedan
+    \n+ Ắc quy:  
+    \n+ Bóng đèn:  Pha H1 - Cos H7
+    \n+ Gạt mưa trước:  
+    \n+ Gạt mưa sau:  
+    \n+ Lốp:  205/60R16
+    \n+ Lọc nhớt:  
+    \n+ Lượng dầu:  Không lọc: ~L - Có lọc: ~L"
+  },
+  {
+    "id": "75",
+    "hangxe": "Ford",
+    "tenxe": "Laser",
+    "doixe": "2002-2009",
+    "content": "THÔNG TIN: \n
+    \n* PHIÊN BẢN: Máy xăng - Sedan
+    \n+ Ắc quy:  55Ah
+    \n+ Bóng đèn:  Pha Cos chung H4
+    \n+ Gạt mưa trước:   24 ; 20
+    \n+ Gạt mưa sau:  
+    \n+ Lốp:  
+    \n+ Lọc nhớt:  208
+    \n+ Lượng dầu:   Không lọc: ~2.5L - Có lọc: ~2.8L"
+  },
 ]
