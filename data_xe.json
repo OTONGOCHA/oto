@@ -1193,6 +1193,54 @@
   {
     "id": "68",
     "hangxe": "Ford",
+    "tenxe": "Everest",
+    "doixe": "2016-nay",
+    "content": "THÔNG TIN: \n
+    \n* PHIÊN BẢN: Máy xăng - SUV 7
+    \n+ Ắc quy:  
+    \n+ Bóng đèn:  
+    \n+ Gạt mưa trước:  
+    \n+ Gạt mưa sau:  
+    \n+ Lốp:  
+    \n+ Lọc nhớt:  
+    \n+ Lượng dầu:   Không lọc: ~L - Có lọc: ~L
+    \n
+    \n* PHIÊN BẢN: Máy dầu - SUV 7
+    \n+ Ắc quy:  
+    \n+ Bóng đèn:  
+    \n+ Gạt mưa trước:  
+    \n+ Gạt mưa sau:  
+    \n+ Lốp:  
+    \n+ Lọc nhớt:  
+    \n+ Lượng dầu:  Không lọc: ~L - Có lọc: ~L"
+  },
+  {
+    "id": "69",
+    "hangxe": "Ford",
+    "tenxe": "Explorer",
+    "doixe": "2017-nay",
+    "content": "THÔNG TIN: \n
+    \n* PHIÊN BẢN: Máy xăng - SUV 7
+    \n+ Ắc quy:  
+    \n+ Bóng đèn:  
+    \n+ Gạt mưa trước:  26 ; 22
+    \n+ Gạt mưa sau:  11
+    \n+ Lốp:  225/60R20
+    \n+ Lọc nhớt:  1S7G6714DA
+    \n+ Lượng dầu:   Không lọc: ~L - Có lọc: ~6.5L
+    \n
+    \n* PHIÊN BẢN: Máy dầu - SUV 7
+    \n+ Ắc quy:  
+    \n+ Bóng đèn:  
+    \n+ Gạt mưa trước:  
+    \n+ Gạt mưa sau:  
+    \n+ Lốp:  
+    \n+ Lọc nhớt:  
+    \n+ Lượng dầu:  Không lọc: ~L - Có lọc: ~L"
+  },
+  {
+    "id": "70",
+    "hangxe": "Ford",
     "tenxe": "Fiesta",
     "doixe": "2013-2014",
     "content": "THÔNG TIN: \n
@@ -1215,7 +1263,7 @@
     \n+ Lượng dầu:  Không lọc: ~L - Có lọc: ~L"
   },
   {
-    "id": "69",
+    "id": "71",
     "hangxe": "Ford",
     "tenxe": "Fiesta",
     "doixe": "2015-nay",
