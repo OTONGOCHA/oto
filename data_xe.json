@@ -528,7 +528,7 @@
     \n+ Lượng dầu:   Không lọc: ~ L - Có lọc: ~7.8L"
   },
   {
-    "id": "24",
+    "id": "28",
     "hangxe": "Toyota",
     "tenxe": "Prado",
     "doixe": "2006-2009",
@@ -543,7 +543,7 @@
     \n+ Lượng dầu:   Không lọc: ~5L - Có lọc: ~5.5L"
   },
   {
-    "id": "25",
+    "id": "29",
     "hangxe": "Toyota",
     "tenxe": "Prado",
     "doixe": "2010-2013",
@@ -558,7 +558,7 @@
     \n+ Lượng dầu:   Không lọc: ~5L - Có lọc: ~5.5L"
   },
   {
-    "id": "26",
+    "id": "30",
     "hangxe": "Toyota",
     "tenxe": "Prado",
     "doixe": "2014-2017",
@@ -573,7 +573,7 @@
     \n+ Lượng dầu:   Không lọc: ~L - Có lọc: ~L"
   },
   {
-    "id": "27",
+    "id": "31",
     "hangxe": "Toyota",
     "tenxe": "Prado",
     "doixe": "2018-nay",
@@ -588,7 +588,82 @@
     \n+ Lượng dầu:   Không lọc: ~L - Có lọc: ~L"
   },
   {
-    "id": "10",
+    "id": "32",
+    "hangxe": "Toyota",
+    "tenxe": "Rav 4",
+    "doixe": "2007-2009",
+    "content": "THÔNG TIN: \n
+    \n* PHIÊN BẢN: Máy xăng - Crossover
+    \n+ Ắc quy:  
+    \n+ Bóng đèn:  
+    \n+ Gạt mưa trước:  
+    \n+ Gạt mưa sau:  
+    \n+ Lốp:  
+    \n+ Lọc nhớt:  
+    \n+ Lượng dầu:   Không lọc: ~ L - Có lọc: ~ L"
+  },
+  {
+    "id": "33",
+    "hangxe": "Toyota",
+    "tenxe": "Rav 4",
+    "doixe": "2010-2013",
+    "content": "THÔNG TIN: \n
+    \n* PHIÊN BẢN: 2.5 - Máy xăng - Crossover
+    \n+ Ắc quy:  55Ah L: to, chìm, có đế
+    \n+ Bóng đèn:  
+    \n+ Gạt mưa trước:  22 ; 18
+    \n+ Gạt mưa sau:  12
+    \n+ Lốp:  225/65R17
+    \n+ Lọc nhớt:  
+    \n+ Lượng dầu:   Không lọc: ~ L - Có lọc: ~ L"
+  },
+  {
+    "id": "34",
+    "hangxe": "Toyota",
+    "tenxe": "Rav 4",
+    "doixe": "2016-nay",
+    "content": "THÔNG TIN: \n
+    \n* PHIÊN BẢN: 2.5 - Máy xăng - Crossover
+    \n+ Ắc quy:  
+    \n+ Bóng đèn:  
+    \n+ Gạt mưa trước:  
+    \n+ Gạt mưa sau:  
+    \n+ Lốp:  
+    \n+ Lọc nhớt:  
+    \n+ Lượng dầu:   Không lọc: ~ L - Có lọc: ~ L"
+  },
+  {
+    "id": "35",
+    "hangxe": "Toyota",
+    "tenxe": "Rush",
+    "doixe": "2019-nay",
+    "content": "THÔNG TIN: \n
+    \n* PHIÊN BẢN: 1.5 - Máy xăng - MPV
+    \n+ Ắc quy:  
+    \n+ Bóng đèn:  
+    \n+ Gạt mưa trước:  
+    \n+ Gạt mưa sau:  
+    \n+ Lốp:  
+    \n+ Lọc nhớt:  
+    \n+ Lượng dầu:   Không lọc: ~ L - Có lọc: ~ L"
+  },
+  {
+    "id": "36",
+    "hangxe": "Toyota",
+    "tenxe": "Venza",
+    "doixe": "2010-2015",
+    "content": "THÔNG TIN: \n
+    \n* PHIÊN BẢN: Máy xăng - Crossover
+    \n+ Ắc quy:  
+    \n+ Bóng đèn:  
+    \n+ Gạt mưa trước:  20 ; 18
+    \n+ Gạt mưa sau:  12
+    \n+ Lốp:  
+    \n+ Lọc nhớt:  009-giấy
+    \n+ Lượng dầu:   Không lọc: ~4.5L - Có lọc: ~ L"
+  },
+  {
+    "id": "37",
     "hangxe": "Toyota",
     "tenxe": "Vios",
     "doixe": "2002-2006",
@@ -603,7 +678,7 @@
     \n+ Lượng dầu:  ~ "
   },
   {
-    "id": "11",
+    "id": "38",
     "hangxe": "Toyota",
     "tenxe": "Vios",
     "doixe": "2007-2013",
@@ -618,7 +693,7 @@
     \n+ Lượng dầu:  ~3-3.5L"
   },
   {
-    "id": "12",
+    "id": "39",
     "hangxe": "Toyota",
     "tenxe": "Vios",
     "doixe": "2014-2018",
@@ -642,7 +717,7 @@
     \n+ Lượng dầu:  ~"
   },
   {
-    "id": "13",
+    "id": "40",
     "hangxe": "Toyota",
     "tenxe": "Vios",
     "doixe": "2019-nay",
@@ -666,7 +741,7 @@
     \n+ Lượng dầu:  ~"
   },
   {
-    "id": "14",
+    "id": "41",
     "hangxe": "Toyota",
     "tenxe": "Yaris",
     "doixe": "2005-2013",
@@ -681,7 +756,7 @@
     \n+ Lượng dầu:  ~3.0L"
   },
   {
-    "id": "15",
+    "id": "42",
     "hangxe": "Toyota",
     "tenxe": "Yaris",
     "doixe": "2014-2018",
@@ -705,7 +780,7 @@
     \n+ Lượng dầu:  ~3.0L"
   },
   {
-    "id": "16",
+    "id": "43",
     "hangxe": "Toyota",
     "tenxe": "Yaris",
     "doixe": "2019-nay",
