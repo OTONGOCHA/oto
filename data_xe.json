@@ -842,4 +842,64 @@
     \n+ Lọc nhớt:  
     \n+ Lượng dầu:  ~"
   },
+  {
+    "id": "46",
+    "hangxe": "Chevrolet - Deawoo",
+    "tenxe": "Captiva",
+    "doixe": "2007-2010",
+    "content": "THÔNG TIN: \n
+    \n* PHIÊN BẢN: Máy xăng - SUV
+    \n+ Ắc quy:  
+    \n+ Bóng đèn:  Pha H1 - Cos H7
+    \n+ Gạt mưa trước:  24 ; 16
+    \n+ Gạt mưa sau:  
+    \n+ Lốp:  
+    \n+ Lọc nhớt:  204
+    \n+ Lượng dầu:   Không lọc: ~4.5L - Có lọc: ~5L"
+  },
+  {
+    "id": "47",
+    "hangxe": "Chevrolet - Deawoo",
+    "tenxe": "Captiva",
+    "doixe": "2016-nay",
+    "content": "THÔNG TIN: \n
+    \n* PHIÊN BẢN: Máy xăng - SUV
+    \n+ Ắc quy:  
+    \n+ Bóng đèn:  
+    \n+ Gạt mưa trước:  22 ; 14
+    \n+ Gạt mưa sau:  
+    \n+ Lốp:  
+    \n+ Lọc nhớt:  
+    \n+ Lượng dầu:   Không lọc: ~L - Có lọc: ~L"
+  },
+  {
+    "id": "48",
+    "hangxe": "Chevrolet - Deawoo",
+    "tenxe": "Colorado",
+    "doixe": "2012-2014",
+    "content": "THÔNG TIN: \n
+    \n* PHIÊN BẢN: Máy dầu - Pickup
+    \n+ Ắc quy:  
+    \n+ Bóng đèn:  
+    \n+ Gạt mưa trước:  
+    \n+ Gạt mưa sau:  
+    \n+ Lốp:  
+    \n+ Lọc nhớt:  
+    \n+ Lượng dầu:   Không lọc: ~L - Có lọc: ~L"
+  },
+  {
+    "id": "49",
+    "hangxe": "Chevrolet - Deawoo",
+    "tenxe": "Colorado",
+    "doixe": "2015-nay",
+    "content": "THÔNG TIN: \n
+    \n* PHIÊN BẢN: Máy dầu - Pickup
+    \n+ Ắc quy:  70Ah L: to, cọc chìm
+    \n+ Bóng đèn:  Pha H1 - Cos H7
+    \n+ Gạt mưa trước:  22 ; 18
+    \n+ Gạt mưa sau:  
+    \n+ Lốp:  265/60R18
+    \n+ Lọc nhớt:  
+    \n+ Lượng dầu:   Không lọc: ~6L - Có lọc: ~L"
+  },
 ]
