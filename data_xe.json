@@ -803,4 +803,43 @@
     \n+ Lọc nhớt:  
     \n+ Lượng dầu:  ~"
   },
+  {
+    "id": "44",
+    "hangxe": "Toyota",
+    "tenxe": "Zace",
+    "doixe": "2000-2005",
+    "content": "THÔNG TIN: \n
+    \n* PHIÊN BẢN: Máy xăng - SUV
+    \n+ Ắc quy:  
+    \n+ Bóng đèn:  Pha Cos chung H4
+    \n+ Gạt mưa trước:  24 ; 16
+    \n+ Gạt mưa sau:  18
+    \n+ Lốp:  185/65R14
+    \n+ Lọc nhớt:  
+    \n+ Lượng dầu:   Không lọc: ~ L - Có lọc: ~ L"
+  },
+  {
+    "id": "45",
+    "hangxe": "Toyota",
+    "tenxe": "Wigo",
+    "doixe": "2019-nay",
+    "content": "THÔNG TIN: \n
+    \n* PHIÊN BẢN: 1.2E - Máy xăng - Hatchback
+    \n+ Ắc quy:  
+    \n+ Bóng đèn:  
+    \n+ Gạt mưa trước:  21 ; 14
+    \n+ Gạt mưa sau:  
+    \n+ Lốp:  175/65R14
+    \n+ Lọc nhớt:  
+    \n+ Lượng dầu:  ~
+    \n
+    \n* PHIÊN BẢN: 
+    \n+ Ắc quy:  
+    \n+ Bóng đèn:  
+    \n+ Gạt mưa trước:  
+    \n+ Gạt mưa sau: 
+    \n+ Lốp:  
+    \n+ Lọc nhớt:  
+    \n+ Lượng dầu:  ~"
+  },
 ]
