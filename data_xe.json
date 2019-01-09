@@ -111,6 +111,21 @@
     \n+ Lượng dầu:  "
   },
   {
+    "id": "31",
+    "hangxe": "Toyota",
+    "tenxe": "Avanza",
+    "doixe": "2019-nay",
+    "content": "THÔNG TIN: \n
+    \n* PHIÊN BẢN: 1.3 - Máy xăng - MPV
+    \n+ Ắc quy:  
+    \n+ Bóng đèn:  
+    \n+ Gạt mưa trước:  
+    \n+ Gạt mưa sau:  
+    \n+ Lốp:  
+    \n+ Lọc nhớt:  
+    \n+ Lượng dầu:   Không lọc: ~ L - Có lọc: ~ L"
+  },
+  {
     "id": "5",
     "hangxe": "Toyota",
     "tenxe": "Camry",
@@ -229,6 +244,78 @@
     \n+ Lốp:  
     \n+ Lọc nhớt:  
     \n+ Lượng dầu:  "
+  },
+  {
+    "id": "17",
+    "hangxe": "Toyota",
+    "tenxe": "Fortuner",
+    "doixe": "2007-2011",
+    "content": "THÔNG TIN: \n
+    \n* PHIÊN BẢN: 2.5 - Máy dầu - SUV
+    \n+ Ắc quy:  
+    \n+ Bóng đèn:  
+    \n+ Gạt mưa trước:  21 ; 19
+    \n+ Gạt mưa sau:  12
+    \n+ Lốp:  
+    \n+ Lọc nhớt:  042
+    \n+ Lượng dầu:   Không lọc: ~ - Có lọc: ~6.5L
+    \n
+    \n* PHIÊN BẢN: Máy xăng - SUV
+    \n+ Ắc quy:  
+    \n+ Bóng đèn:  
+    \n+ Gạt mưa trước:  21 ; 19
+    \n+ Gạt mưa sau:  12
+    \n+ Lốp:  
+    \n+ Lọc nhớt:  042
+    \n+ Lượng dầu:  Không lọc: ~5L - Có lọc: ~5.5L"
+  },
+  {
+    "id": "18",
+    "hangxe": "Toyota",
+    "tenxe": "Fortuner",
+    "doixe": "2013-2016",
+    "content": "THÔNG TIN: \n
+    \n* PHIÊN BẢN: 2.5 - Máy dầu - SUV
+    \n+ Ắc quy:  
+    \n+ Bóng đèn:  
+    \n+ Gạt mưa trước:  21 ; 19
+    \n+ Gạt mưa sau:  12
+    \n+ Lốp:  
+    \n+ Lọc nhớt:  042
+    \n+ Lượng dầu:   Không lọc: ~ - Có lọc: ~
+    \n
+    \n* PHIÊN BẢN: Máy xăng - SUV
+    \n+ Ắc quy:  
+    \n+ Bóng đèn:  
+    \n+ Gạt mưa trước:  21 ; 19
+    \n+ Gạt mưa sau:  12
+    \n+ Lốp:  
+    \n+ Lọc nhớt:  042
+    \n+ Lượng dầu:  Không lọc: ~ - Có lọc: ~"
+  },
+  {
+    "id": "19",
+    "hangxe": "Toyota",
+    "tenxe": "Fortuner",
+    "doixe": "2017-nay",
+    "content": "THÔNG TIN: \n
+    \n* PHIÊN BẢN: 2.4 - Máy dầu - SUV
+    \n+ Ắc quy:  
+    \n+ Bóng đèn:  
+    \n+ Gạt mưa trước:  22 ; 16
+    \n+ Gạt mưa sau:  12
+    \n+ Lốp:  
+    \n+ Lọc nhớt:  042
+    \n+ Lượng dầu:   Không lọc: ~ - Có lọc: ~
+    \n
+    \n* PHIÊN BẢN: Máy xăng - SUV
+    \n+ Ắc quy:  65Ah: chìm, có đế
+    \n+ Bóng đèn:  
+    \n+ Gạt mưa trước:  22 ; 16
+    \n+ Gạt mưa sau:  12
+    \n+ Lốp:  265/65R17
+    \n+ Lọc nhớt:  042
+    \n+ Lượng dầu:  Không lọc: ~ - Có lọc: ~"
   },
   {
     "id": "10",
@@ -370,78 +457,6 @@
     \n+ Lốp:  
     \n+ Lọc nhớt:  
     \n+ Lượng dầu:  ~"
-  },
-  {
-    "id": "17",
-    "hangxe": "Toyota",
-    "tenxe": "Fortuner",
-    "doixe": "2007-2011",
-    "content": "THÔNG TIN: \n
-    \n* PHIÊN BẢN: 2.5 - Máy dầu - SUV
-    \n+ Ắc quy:  
-    \n+ Bóng đèn:  
-    \n+ Gạt mưa trước:  21 ; 19
-    \n+ Gạt mưa sau:  12
-    \n+ Lốp:  
-    \n+ Lọc nhớt:  042
-    \n+ Lượng dầu:   Không lọc: ~ - Có lọc: ~6.5L
-    \n
-    \n* PHIÊN BẢN: Máy xăng - SUV
-    \n+ Ắc quy:  
-    \n+ Bóng đèn:  
-    \n+ Gạt mưa trước:  21 ; 19
-    \n+ Gạt mưa sau:  12
-    \n+ Lốp:  
-    \n+ Lọc nhớt:  042
-    \n+ Lượng dầu:  Không lọc: ~5L - Có lọc: ~5.5L"
-  },
-  {
-    "id": "18",
-    "hangxe": "Toyota",
-    "tenxe": "Fortuner",
-    "doixe": "2013-2016",
-    "content": "THÔNG TIN: \n
-    \n* PHIÊN BẢN: 2.5 - Máy dầu - SUV
-    \n+ Ắc quy:  
-    \n+ Bóng đèn:  
-    \n+ Gạt mưa trước:  21 ; 19
-    \n+ Gạt mưa sau:  12
-    \n+ Lốp:  
-    \n+ Lọc nhớt:  042
-    \n+ Lượng dầu:   Không lọc: ~ - Có lọc: ~
-    \n
-    \n* PHIÊN BẢN: Máy xăng - SUV
-    \n+ Ắc quy:  
-    \n+ Bóng đèn:  
-    \n+ Gạt mưa trước:  21 ; 19
-    \n+ Gạt mưa sau:  12
-    \n+ Lốp:  
-    \n+ Lọc nhớt:  042
-    \n+ Lượng dầu:  Không lọc: ~ - Có lọc: ~"
-  },
-  {
-    "id": "19",
-    "hangxe": "Toyota",
-    "tenxe": "Fortuner",
-    "doixe": "2017-nay",
-    "content": "THÔNG TIN: \n
-    \n* PHIÊN BẢN: 2.4 - Máy dầu - SUV
-    \n+ Ắc quy:  
-    \n+ Bóng đèn:  
-    \n+ Gạt mưa trước:  22 ; 16
-    \n+ Gạt mưa sau:  12
-    \n+ Lốp:  
-    \n+ Lọc nhớt:  042
-    \n+ Lượng dầu:   Không lọc: ~ - Có lọc: ~
-    \n
-    \n* PHIÊN BẢN: Máy xăng - SUV
-    \n+ Ắc quy:  65Ah: chìm, có đế
-    \n+ Bóng đèn:  
-    \n+ Gạt mưa trước:  22 ; 16
-    \n+ Gạt mưa sau:  12
-    \n+ Lốp:  265/65R17
-    \n+ Lọc nhớt:  042
-    \n+ Lượng dầu:  Không lọc: ~ - Có lọc: ~"
   },
   {
     "id": "20",
