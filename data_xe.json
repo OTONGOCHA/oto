@@ -1466,4 +1466,178 @@
     \n+ Lọc nhớt:  200
     \n+ Lượng dầu:  Không lọc: ~8L - Có lọc: ~8.5L"
   },
+  {
+    "id": "81",
+    "hangxe": "Ford",
+    "tenxe": "Transit",
+    "doixe": "2007-2013",
+    "content": "THÔNG TIN: \n
+    \n* PHIÊN BẢN: Máy dầu - 16 chỗ
+    \n+ Ắc quy:  
+    \n+ Bóng đèn:  Pha Cos chung H4
+    \n+ Gạt mưa trước:    
+    \n+ Gạt mưa sau:  
+    \n+ Lốp:  
+    \n+ Lọc nhớt:  
+    \n+ Lượng dầu:   Không lọc: ~L - Có lọc: ~L"
+  },
+  {
+    "id": "82",
+    "hangxe": "Ford",
+    "tenxe": "Transit",
+    "doixe": "2015-nay",
+    "content": "THÔNG TIN: \n
+    \n* PHIÊN BẢN: Máy dầu - 16 chỗ
+    \n+ Ắc quy:  
+    \n+ Bóng đèn:  
+    \n+ Gạt mưa trước:    
+    \n+ Gạt mưa sau:  
+    \n+ Lốp:  
+    \n+ Lọc nhớt:  
+    \n+ Lượng dầu:   Không lọc: ~L - Có lọc: ~L"
+  },
+  {
+    "id": "83",
+    "hangxe": "Honda",
+    "tenxe": "Accord",
+    "doixe": "2007-2012",
+    "content": "THÔNG TIN: \n
+    \n* PHIÊN BẢN: 2.4 - Máy xăng - Sedan
+    \n+ Ắc quy:  
+    \n+ Bóng đèn:  
+    \n+ Gạt mưa trước:    
+    \n+ Gạt mưa sau:  
+    \n+ Lốp:  
+    \n+ Lọc nhớt:  
+    \n+ Lượng dầu:   Không lọc: ~L - Có lọc: ~L"
+  },
+  {
+    "id": "84",
+    "hangxe": "Honda",
+    "tenxe": "Accord",
+    "doixe": "2013-2016",
+    "content": "THÔNG TIN: \n
+    \n* PHIÊN BẢN: 2.4 - Máy xăng - Sedan
+    \n+ Ắc quy:  
+    \n+ Bóng đèn:  
+    \n+ Gạt mưa trước:    
+    \n+ Gạt mưa sau:  
+    \n+ Lốp:  
+    \n+ Lọc nhớt:  
+    \n+ Lượng dầu:   Không lọc: ~L - Có lọc: ~L"
+  },
+  {
+    "id": "85",
+    "hangxe": "Honda",
+    "tenxe": "City",
+    "doixe": "2011-2013",
+    "content": "THÔNG TIN: \n
+    \n* PHIÊN BẢN: Máy xăng - Sedan
+    \n+ Ắc quy:  45Ah L: cọc nhỏ, nổi
+    \n+ Bóng đèn:  
+    \n+ Gạt mưa trước:   24 ; 16
+    \n+ Gạt mưa sau:  
+    \n+ Lốp:  175/65R15
+    \n+ Lọc nhớt:  023
+    \n+ Lượng dầu:   Không lọc: ~L - Có lọc: ~L
+    \n
+    \n* PHIÊN BẢN: Máy xăng - Sedan
+    \n+ Ắc quy:  
+    \n+ Bóng đèn:  
+    \n+ Gạt mưa trước:  
+    \n+ Gạt mưa sau:  
+    \n+ Lốp:  
+    \n+ Lọc nhớt:  
+    \n+ Lượng dầu:  Không lọc: ~L - Có lọc: ~L"
+  },
+  {
+    "id": "86",
+    "hangxe": "Honda",
+    "tenxe": "City",
+    "doixe": "2014-2016",
+    "content": "THÔNG TIN: \n
+    \n* PHIÊN BẢN: Máy xăng - Sedan
+    \n+ Ắc quy:  30Ah L: cọc nhỏ, nổi
+    \n+ Bóng đèn:  
+    \n+ Gạt mưa trước:   26 ; 14
+    \n+ Gạt mưa sau:  
+    \n+ Lốp:  185/55R16
+    \n+ Lọc nhớt:  
+    \n+ Lượng dầu:   Không lọc: ~L - Có lọc: ~L"
+  },
+  {
+    "id": "87",
+    "hangxe": "Honda",
+    "tenxe": "City",
+    "doixe": "2017-nay",
+    "content": "THÔNG TIN: \n
+    \n* PHIÊN BẢN: Máy xăng - Sedan
+    \n+ Ắc quy:  45Ah L: cọc nhỏ, nổi
+    \n+ Bóng đèn:  
+    \n+ Gạt mưa trước:   24 ; 16
+    \n+ Gạt mưa sau:  
+    \n+ Lốp:  185/55R16
+    \n+ Lọc nhớt:  023
+    \n+ Lượng dầu:   Không lọc: ~L - Có lọc: ~L"
+  },
+  {
+    "id": "88",
+    "hangxe": "Honda",
+    "tenxe": "Civic",
+    "doixe": "2007-2009",
+    "content": "THÔNG TIN: \n
+    \n* PHIÊN BẢN: 1.8 - Máy xăng - Sedan
+    \n+ Ắc quy:  45Ah L
+    \n+ Bóng đèn:  
+    \n+ Gạt mưa trước:   26 ; 22
+    \n+ Gạt mưa sau:  
+    \n+ Lốp:  175/65R15
+    \n+ Lọc nhớt:  023
+    \n+ Lượng dầu:   Không lọc: ~L - Có lọc: ~L"
+  },
+  {
+    "id": "89",
+    "hangxe": "Honda",
+    "tenxe": "Civic",
+    "doixe": "2010-2012",
+    "content": "THÔNG TIN: \n
+    \n* PHIÊN BẢN: 1.8 - Máy xăng - Sedan
+    \n+ Ắc quy:  
+    \n+ Bóng đèn:  
+    \n+ Gạt mưa trước:   
+    \n+ Gạt mưa sau:  
+    \n+ Lốp:  
+    \n+ Lọc nhớt:  
+    \n+ Lượng dầu:   Không lọc: ~L - Có lọc: ~L"
+  },
+  {
+    "id": "90",
+    "hangxe": "Honda",
+    "tenxe": "Civic",
+    "doixe": "2013-2016",
+    "content": "THÔNG TIN: \n
+    \n* PHIÊN BẢN: 1.8 - Máy xăng - Sedan
+    \n+ Ắc quy:  
+    \n+ Bóng đèn:  
+    \n+ Gạt mưa trước:   
+    \n+ Gạt mưa sau:  
+    \n+ Lốp:  
+    \n+ Lọc nhớt:  
+    \n+ Lượng dầu:   Không lọc: ~L - Có lọc: ~L"
+  },
+  {
+    "id": "91",
+    "hangxe": "Honda",
+    "tenxe": "Civic",
+    "doixe": "2017-nay",
+    "content": "THÔNG TIN: \n
+    \n* PHIÊN BẢN: 1.8 - Máy xăng - Sedan
+    \n+ Ắc quy:  
+    \n+ Bóng đèn:  
+    \n+ Gạt mưa trước:   
+    \n+ Gạt mưa sau:  
+    \n+ Lốp:  
+    \n+ Lọc nhớt:  
+    \n+ Lượng dầu:   Không lọc: ~L - Có lọc: ~L"
+  },
 ]
