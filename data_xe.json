@@ -1070,6 +1070,81 @@
   {
     "id": "61",
     "hangxe": "Ford",
+    "tenxe": "Ecosport",
+    "doixe": "2013-2017",
+    "content": "THÔNG TIN: \n
+    \n* PHIÊN BẢN: Máy xăng - SUV cỡ nhỏ
+    \n+ Ắc quy:  
+    \n+ Bóng đèn:  
+    \n+ Gạt mưa trước:   
+    \n+ Gạt mưa sau:  10
+    \n+ Lốp:  
+    \n+ Lọc nhớt:  1S7G6714DA
+    \n+ Lượng dầu:   Không lọc: ~L - Có lọc: ~L"
+  },
+  {
+    "id": "62",
+    "hangxe": "Ford",
+    "tenxe": "Ecosport",
+    "doixe": "2018-nay",
+    "content": "THÔNG TIN: \n
+    \n* PHIÊN BẢN: Máy xăng - SUV cỡ nhỏ
+    \n+ Ắc quy:  
+    \n+ Bóng đèn:  
+    \n+ Gạt mưa trước:   
+    \n+ Gạt mưa sau:  
+    \n+ Lốp:  
+    \n+ Lọc nhớt:  
+    \n+ Lượng dầu:   Không lọc: ~L - Có lọc: ~L"
+  },
+  {
+    "id": "63",
+    "hangxe": "Ford",
+    "tenxe": "Escape",
+    "doixe": "2007",
+    "content": "THÔNG TIN: \n
+    \n* PHIÊN BẢN: Máy dầu - SUV
+    \n+ Ắc quy:  
+    \n+ Bóng đèn:  Pha HB3 - Cos
+    \n+ Gạt mưa trước:   
+    \n+ Gạt mưa sau:  
+    \n+ Lốp:  
+    \n+ Lọc nhớt:  
+    \n+ Lượng dầu:   Không lọc: ~L - Có lọc: ~L"
+  },
+  {
+    "id": "64",
+    "hangxe": "Ford",
+    "tenxe": "Escape",
+    "doixe": "2011-2013",
+    "content": "THÔNG TIN: \n
+    \n* PHIÊN BẢN: Máy dầu - SUV
+    \n+ Ắc quy:  
+    \n+ Bóng đèn:  Pha HB3 - Cos HB4
+    \n+ Gạt mưa trước:   
+    \n+ Gạt mưa sau:  
+    \n+ Lốp:  
+    \n+ Lọc nhớt:  
+    \n+ Lượng dầu:   Không lọc: ~L - Có lọc: ~L"
+  },
+  {
+    "id": "65",
+    "hangxe": "Ford",
+    "tenxe": "Everest",
+    "doixe": "2006",
+    "content": "THÔNG TIN: \n
+    \n* PHIÊN BẢN: Máy xăng - SUV 7
+    \n+ Ắc quy:  
+    \n+ Bóng đèn:  
+    \n+ Gạt mưa trước:  
+    \n+ Gạt mưa sau:  
+    \n+ Lốp:  
+    \n+ Lọc nhớt:  
+    \n+ Lượng dầu:   Không lọc: ~L - Có lọc: ~L"
+  },
+  {
+    "id": "68",
+    "hangxe": "Ford",
     "tenxe": "Fiesta",
     "doixe": "2013-2014",
     "content": "THÔNG TIN: \n
@@ -1092,7 +1167,7 @@
     \n+ Lượng dầu:  Không lọc: ~L - Có lọc: ~L"
   },
   {
-    "id": "62",
+    "id": "69",
     "hangxe": "Ford",
     "tenxe": "Fiesta",
     "doixe": "2015-nay",
