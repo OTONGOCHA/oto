@@ -348,7 +348,82 @@
     \n+ Lượng dầu:   Không lọc: ~ L - Có lọc: ~ L"
   },
   {
-    "id": "14",
+    "id": "16",
+    "hangxe": "Toyota",
+    "tenxe": "Hilux",
+    "doixe": "Vigo 2007-2010",
+    "content": "THÔNG TIN: \n
+    \n* PHIÊN BẢN: 3.0 - Máy dầu - Pickup
+    \n+ Ắc quy:  
+    \n+ Bóng đèn:  Pha Cos chung H4
+    \n+ Gạt mưa trước:  21 ; 19
+    \n+ Gạt mưa sau:  
+    \n+ Lốp:  255/70R16
+    \n+ Lọc nhớt:  042
+    \n+ Lượng dầu:   Không lọc: ~6L - Có lọc: ~6.5L"
+  },
+  {
+    "id": "17",
+    "hangxe": "Toyota",
+    "tenxe": "Hilux",
+    "doixe": "Vigo 2011-2015",
+    "content": "THÔNG TIN: \n
+    \n* PHIÊN BẢN: 3.0 - Máy dầu - Pickup
+    \n+ Ắc quy:  
+    \n+ Bóng đèn:  Pha Cos chung H4
+    \n+ Gạt mưa trước:  21 ; 19
+    \n+ Gạt mưa sau:  
+    \n+ Lốp:  265/65R17
+    \n+ Lọc nhớt:  
+    \n+ Lượng dầu:   Không lọc: ~ L - Có lọc: ~ L"
+  },
+  {
+    "id": "18",
+    "hangxe": "Toyota",
+    "tenxe": "Hilux",
+    "doixe": "Revo 2016-2018",
+    "content": "THÔNG TIN: \n
+    \n* PHIÊN BẢN: Máy dầu - Pickup
+    \n+ Ắc quy:  80Ah L
+    \n+ Bóng đèn:  Pha Cos chung H4
+    \n+ Gạt mưa trước:  22 ; 16
+    \n+ Gạt mưa sau:  
+    \n+ Lốp:  265/65R17
+    \n+ Lọc nhớt:  
+    \n+ Lượng dầu:   Không lọc: ~ L - Có lọc: ~ L"
+  },
+  {
+    "id": "19",
+    "hangxe": "Toyota",
+    "tenxe": "Hilux",
+    "doixe": "Revo 2019-nay",
+    "content": "THÔNG TIN: \n
+    \n* PHIÊN BẢN: Máy dầu - Pickup
+    \n+ Ắc quy:  
+    \n+ Bóng đèn:  
+    \n+ Gạt mưa trước:  
+    \n+ Gạt mưa sau:  
+    \n+ Lốp:  
+    \n+ Lọc nhớt:  
+    \n+ Lượng dầu:   Không lọc: ~ L - Có lọc: ~ L"
+  },
+  {
+    "id": "20",
+    "hangxe": "Toyota",
+    "tenxe": "Hiace",
+    "doixe": "2005-2008",
+    "content": "THÔNG TIN: \n
+    \n* PHIÊN BẢN: Máy xăng
+    \n+ Ắc quy:  
+    \n+ Bóng đèn:  
+    \n+ Gạt mưa trước:  
+    \n+ Gạt mưa sau:  
+    \n+ Lốp:  
+    \n+ Lọc nhớt:  042
+    \n+ Lượng dầu:   Không lọc: ~ L - Có lọc: ~ L"
+  },
+  {
+    "id": "21",
     "hangxe": "Toyota",
     "tenxe": "Innova",
     "doixe": "2006-2008",
@@ -363,7 +438,7 @@
     \n+ Lượng dầu:   Không lọc: ~ - Có lọc: ~"
   },
   {
-    "id": "15",
+    "id": "22",
     "hangxe": "Toyota",
     "tenxe": "Innova",
     "doixe": "2009-2012",
@@ -378,7 +453,7 @@
     \n+ Lượng dầu:   Không lọc: ~ - Có lọc: ~5.5L"
   },
   {
-    "id": "16",
+    "id": "23",
     "hangxe": "Toyota",
     "tenxe": "Innova",
     "doixe": "2013-2016",
@@ -393,7 +468,7 @@
     \n+ Lượng dầu:   Không lọc: ~ - Có lọc: ~"
   },
   {
-    "id": "17",
+    "id": "24",
     "hangxe": "Toyota",
     "tenxe": "Innova",
     "doixe": "2017-nay",
@@ -408,7 +483,7 @@
     \n+ Lượng dầu:   Không lọc: ~ - Có lọc: ~"
   },
   {
-    "id": "16",
+    "id": "25",
     "hangxe": "Toyota",
     "tenxe": "LandCruiser",
     "doixe": "2003-2007",
@@ -423,7 +498,7 @@
     \n+ Lượng dầu:   Không lọc: ~ L - Có lọc: ~ L"
   },
   {
-    "id": "17",
+    "id": "26",
     "hangxe": "Toyota",
     "tenxe": "LandCruiser",
     "doixe": "2008-2015",
@@ -438,7 +513,7 @@
     \n+ Lượng dầu:   Không lọc: ~ L - Có lọc: ~ L"
   },
   {
-    "id": "30",
+    "id": "27",
     "hangxe": "Toyota",
     "tenxe": "LandCruiser",
     "doixe": "2016-nay",
