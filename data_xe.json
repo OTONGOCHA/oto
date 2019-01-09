@@ -1143,6 +1143,54 @@
     \n+ Lượng dầu:   Không lọc: ~L - Có lọc: ~L"
   },
   {
+    "id": "66",
+    "hangxe": "Ford",
+    "tenxe": "Everest",
+    "doixe": "2007-2011",
+    "content": "THÔNG TIN: \n
+    \n* PHIÊN BẢN: Máy xăng - SUV 7
+    \n+ Ắc quy:  65Ah
+    \n+ Bóng đèn:  
+    \n+ Gạt mưa trước:  
+    \n+ Gạt mưa sau:  
+    \n+ Lốp:  
+    \n+ Lọc nhớt:  
+    \n+ Lượng dầu:   Không lọc: ~L - Có lọc: ~L
+    \n
+    \n* PHIÊN BẢN: Máy dầu - SUV 7
+    \n+ Ắc quy:  80Ah L: cọc to
+    \n+ Bóng đèn:  Pha Cos chung H4
+    \n+ Gạt mưa trước:  19 ; 17
+    \n+ Gạt mưa sau:  14
+    \n+ Lốp:  245/70R16
+    \n+ Lọc nhớt:  124
+    \n+ Lượng dầu:  Không lọc: ~6.8L - Có lọc: ~7.2L"
+  },
+  {
+    "id": "67",
+    "hangxe": "Ford",
+    "tenxe": "Everest",
+    "doixe": "2012-2015",
+    "content": "THÔNG TIN: \n
+    \n* PHIÊN BẢN: Máy xăng - SUV 7
+    \n+ Ắc quy:  
+    \n+ Bóng đèn:  
+    \n+ Gạt mưa trước:  
+    \n+ Gạt mưa sau:  
+    \n+ Lốp:  
+    \n+ Lọc nhớt:  
+    \n+ Lượng dầu:   Không lọc: ~L - Có lọc: ~L
+    \n
+    \n* PHIÊN BẢN: Máy dầu - SUV 7
+    \n+ Ắc quy:  
+    \n+ Bóng đèn:  
+    \n+ Gạt mưa trước:  
+    \n+ Gạt mưa sau:  
+    \n+ Lốp:  
+    \n+ Lọc nhớt:  
+    \n+ Lượng dầu:  Không lọc: ~L - Có lọc: ~L"
+  },
+  {
     "id": "68",
     "hangxe": "Ford",
     "tenxe": "Fiesta",
