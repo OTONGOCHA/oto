@@ -902,4 +902,124 @@
     \n+ Lọc nhớt:  
     \n+ Lượng dầu:   Không lọc: ~6L - Có lọc: ~L"
   },
+  {
+    "id": "50",
+    "hangxe": "Chevrolet - Deawoo",
+    "tenxe": "Gentra",
+    "doixe": "2006-2012",
+    "content": "THÔNG TIN: \n
+    \n* PHIÊN BẢN: Máy xăng - Sedan
+    \n+ Ắc quy:  55Ah R: cọc chìm
+    \n+ Bóng đèn:  Pha Cos chung H4
+    \n+ Gạt mưa trước:  22 ; 16
+    \n+ Gạt mưa sau:  
+    \n+ Lốp:  175/70R13
+    \n+ Lọc nhớt:  204
+    \n+ Lượng dầu:   Không lọc: ~4L - Có lọc: ~4.5L"
+  },
+  {
+    "id": "51",
+    "hangxe": "Chevrolet - Deawoo",
+    "tenxe": "Gentra",
+    "doixe": "Aveo 2013-nay",
+    "content": "THÔNG TIN: \n
+    \n* PHIÊN BẢN: Máy xăng - Sedan
+    \n+ Ắc quy:  
+    \n+ Bóng đèn:  
+    \n+ Gạt mưa trước:  
+    \n+ Gạt mưa sau:  
+    \n+ Lốp:  
+    \n+ Lọc nhớt:  204
+    \n+ Lượng dầu:   Không lọc: ~L - Có lọc: ~L"
+  },
+  {
+    "id": "52",
+    "hangxe": "Chevrolet - Deawoo",
+    "tenxe": "Gentra X",
+    "doixe": "2008-2011",
+    "content": "THÔNG TIN: \n
+    \n* PHIÊN BẢN: Máy xăng - Hatchback
+    \n+ Ắc quy:  
+    \n+ Bóng đèn:  
+    \n+ Gạt mưa trước:  
+    \n+ Gạt mưa sau:  
+    \n+ Lốp:  
+    \n+ Lọc nhớt:  
+    \n+ Lượng dầu:   Không lọc: ~L - Có lọc: ~4L"
+  },
+  {
+    "id": "53",
+    "hangxe": "Chevrolet - Deawoo",
+    "tenxe": "Lacetti LD",
+    "doixe": "2004-2006",
+    "content": "THÔNG TIN: \n
+    \n* PHIÊN BẢN: Máy xăng - Sedan
+    \n+ Ắc quy:  
+    \n+ Bóng đèn:  
+    \n+ Gạt mưa trước:  
+    \n+ Gạt mưa sau:  
+    \n+ Lốp:  
+    \n+ Lọc nhớt:  204
+    \n+ Lượng dầu:   Không lọc: ~3.5L - Có lọc: ~3.8L"
+  },
+  {
+    "id": "54",
+    "hangxe": "Chevrolet - Deawoo",
+    "tenxe": "Lacetti LD",
+    "doixe": "2007-nay",
+    "content": "THÔNG TIN: \n
+    \n* PHIÊN BẢN: Máy xăng - Sedan
+    \n+ Ắc quy:  
+    \n+ Bóng đèn:  
+    \n+ Gạt mưa trước:  
+    \n+ Gạt mưa sau:  
+    \n+ Lốp:  
+    \n+ Lọc nhớt:  
+    \n+ Lượng dầu:   Không lọc: ~L - Có lọc: ~L"
+  },
+  {
+    "id": "55",
+    "hangxe": "Chevrolet - Deawoo",
+    "tenxe": "Lacetti NK",
+    "doixe": "2009-2012",
+    "content": "THÔNG TIN: \n
+    \n* PHIÊN BẢN: Máy xăng - Sedan
+    \n+ Ắc quy:  
+    \n+ Bóng đèn:  Pha Cos chung H4
+    \n+ Gạt mưa trước:  24 ; 18
+    \n+ Gạt mưa sau:  
+    \n+ Lốp:  205/65R15
+    \n+ Lọc nhớt:  
+    \n+ Lượng dầu:   Không lọc: ~4.5L - Có lọc: ~4.8L"
+  },
+  {
+    "id": "56",
+    "hangxe": "Chevrolet - Deawoo",
+    "tenxe": "Lacetti NK",
+    "doixe": "Cruze 2013-nay",
+    "content": "THÔNG TIN: \n
+    \n* PHIÊN BẢN: Máy xăng - Sedan
+    \n+ Ắc quy:  60Ah L: cọc chìm
+    \n+ Bóng đèn:  Bi xenon HB3
+    \n+ Gạt mưa trước:  24 ; 18
+    \n+ Gạt mưa sau:  
+    \n+ Lốp:  215/60R17
+    \n+ Lọc nhớt:  
+    \n+ Lượng dầu:   Không lọc: ~3.8L - Có lọc: ~4.2L"
+  },
+  {
+    "id": "57",
+    "hangxe": "Chevrolet - Deawoo",
+    "tenxe": "MU-X",
+    "doixe": "2017-nay",
+    "content": "THÔNG TIN: \n
+    \n* PHIÊN BẢN: Máy xăng - SUV 7
+    \n+ Ắc quy:  
+    \n+ Bóng đèn:  
+    \n+ Gạt mưa trước:  
+    \n+ Gạt mưa sau:  
+    \n+ Lốp:  
+    \n+ Lọc nhớt:  
+    \n+ Lượng dầu:   Không lọc: ~L - Có lọc: ~L"
+  },
 ]
