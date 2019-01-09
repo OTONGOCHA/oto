@@ -348,36 +348,6 @@
     \n+ Lượng dầu:   Không lọc: ~ - Có lọc: ~5.5L"
   },
   {
-    "id": "22",
-    "hangxe": "Toyota",
-    "tenxe": "Innova",
-    "doixe": "2013-2016",
-    "content": "THÔNG TIN: \n
-    \n* PHIÊN BẢN: Máy xăng - MPV
-    \n+ Ắc quy:  
-    \n+ Bóng đèn:  
-    \n+ Gạt mưa trước:  
-    \n+ Gạt mưa sau:  
-    \n+ Lốp:  
-    \n+ Lọc nhớt:  042
-    \n+ Lượng dầu:   Không lọc: ~ - Có lọc: ~"
-  },
-  {
-    "id": "23",
-    "hangxe": "Toyota",
-    "tenxe": "Innova",
-    "doixe": "2017-nay",
-    "content": "THÔNG TIN: \n
-    \n* PHIÊN BẢN: 2.0 - Máy xăng - MPV
-    \n+ Ắc quy:  33Ah L: to, chìm, có đế
-    \n+ Bóng đèn:  Pha HB3 - Cos H11
-    \n+ Gạt mưa trước:  26 ; 16
-    \n+ Gạt mưa sau:  12
-    \n+ Lốp:  205/65R16
-    \n+ Lọc nhớt:  042
-    \n+ Lượng dầu:   Không lọc: ~ - Có lọc: ~"
-  },
-  {
     "id": "28",
     "hangxe": "Toyota",
     "tenxe": "LandCruiser",
@@ -481,6 +451,36 @@
     \n+ Lốp:  
     \n+ Lọc nhớt:  
     \n+ Lượng dầu:   Không lọc: ~L - Có lọc: ~L"
+  },
+  {
+    "id": "22",
+    "hangxe": "Toyota",
+    "tenxe": "Innova",
+    "doixe": "2013-2016",
+    "content": "THÔNG TIN: \n
+    \n* PHIÊN BẢN: Máy xăng - MPV
+    \n+ Ắc quy:  
+    \n+ Bóng đèn:  
+    \n+ Gạt mưa trước:  
+    \n+ Gạt mưa sau:  
+    \n+ Lốp:  
+    \n+ Lọc nhớt:  042
+    \n+ Lượng dầu:   Không lọc: ~ - Có lọc: ~"
+  },
+  {
+    "id": "23",
+    "hangxe": "Toyota",
+    "tenxe": "Innova",
+    "doixe": "2017-nay",
+    "content": "THÔNG TIN: \n
+    \n* PHIÊN BẢN: 2.0 - Máy xăng - MPV
+    \n+ Ắc quy:  33Ah L: to, chìm, có đế
+    \n+ Bóng đèn:  Pha HB3 - Cos H11
+    \n+ Gạt mưa trước:  26 ; 16
+    \n+ Gạt mưa sau:  12
+    \n+ Lốp:  205/65R16
+    \n+ Lọc nhớt:  042
+    \n+ Lượng dầu:   Không lọc: ~ - Có lọc: ~"
   },
   {
     "id": "10",
