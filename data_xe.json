@@ -1022,4 +1022,97 @@
     \n+ Lọc nhớt:  
     \n+ Lượng dầu:   Không lọc: ~L - Có lọc: ~L"
   },
+  {
+    "id": "58",
+    "hangxe": "Chevrolet - Deawoo",
+    "tenxe": "Spark",
+    "doixe": "2005-2011",
+    "content": "THÔNG TIN: \n
+    \n* PHIÊN BẢN: Máy xăng - Hatchback
+    \n+ Ắc quy:  
+    \n+ Bóng đèn:  Pha Cos chung H4
+    \n+ Gạt mưa trước:  22 ; 14
+    \n+ Gạt mưa sau:  12
+    \n+ Lốp:  155/65R13
+    \n+ Lọc nhớt:  190
+    \n+ Lượng dầu:   Không lọc: ~2.5L - Có lọc: ~2.8L"
+  },
+  {
+    "id": "59",
+    "hangxe": "Chevrolet - Deawoo",
+    "tenxe": "Spark",
+    "doixe": "2015-nay",
+    "content": "THÔNG TIN: \n
+    \n* PHIÊN BẢN: Máy xăng - Hatchback
+    \n+ Ắc quy:  
+    \n+ Bóng đèn:  Pha Cos chung H4
+    \n+ Gạt mưa trước:  22 ; 14
+    \n+ Gạt mưa sau:  
+    \n+ Lốp:  
+    \n+ Lọc nhớt:  
+    \n+ Lượng dầu:   Không lọc: ~3.5L - Có lọc: ~3.8L"
+  },
+  {
+    "id": "60",
+    "hangxe": "Chevrolet - Deawoo",
+    "tenxe": "Trax",
+    "doixe": "2017-nay",
+    "content": "THÔNG TIN: \n
+    \n* PHIÊN BẢN: Máy xăng - SUV
+    \n+ Ắc quy:  
+    \n+ Bóng đèn:  
+    \n+ Gạt mưa trước:  
+    \n+ Gạt mưa sau:  
+    \n+ Lốp:  
+    \n+ Lọc nhớt:  
+    \n+ Lượng dầu:   Không lọc: ~L - Có lọc: ~L"
+  },
+  {
+    "id": "61",
+    "hangxe": "Ford",
+    "tenxe": "Fiesta",
+    "doixe": "2013-2014",
+    "content": "THÔNG TIN: \n
+    \n* PHIÊN BẢN: Máy xăng - Hatchback
+    \n+ Ắc quy:  
+    \n+ Bóng đèn:  
+    \n+ Gạt mưa trước:  
+    \n+ Gạt mưa sau:  
+    \n+ Lốp:  
+    \n+ Lọc nhớt:  
+    \n+ Lượng dầu:   Không lọc: ~3.5L - Có lọc: ~L
+    \n
+    \n* PHIÊN BẢN: Máy xăng - Sedan
+    \n+ Ắc quy:  
+    \n+ Bóng đèn:  
+    \n+ Gạt mưa trước:  
+    \n+ Gạt mưa sau:  
+    \n+ Lốp:  
+    \n+ Lọc nhớt:  
+    \n+ Lượng dầu:  Không lọc: ~L - Có lọc: ~L"
+  },
+  {
+    "id": "62",
+    "hangxe": "Ford",
+    "tenxe": "Fiesta",
+    "doixe": "2015-nay",
+    "content": "THÔNG TIN: \n
+    \n* PHIÊN BẢN: Máy xăng
+    \n+ Ắc quy:  52Ah L: cọc chìm, to, có đế
+    \n+ Bóng đèn:  Pha H1 - Cos H7
+    \n+ Gạt mưa trước:  26 ; 16 
+    \n+ Gạt mưa sau:  
+    \n+ Lốp:  195/60R16
+    \n+ Lọc nhớt:  
+    \n+ Lượng dầu:   Không lọc: ~L - Có lọc: ~L
+    \n
+    \n* PHIÊN BẢN: Máy xăng
+    \n+ Ắc quy:  
+    \n+ Bóng đèn:  
+    \n+ Gạt mưa trước:  
+    \n+ Gạt mưa sau:  
+    \n+ Lốp:  
+    \n+ Lọc nhớt:  
+    \n+ Lượng dầu:  Không lọc: ~L - Có lọc: ~L"
+  },
 ]
