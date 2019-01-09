@@ -563,4 +563,49 @@
     \n+ Lọc nhớt:  
     \n+ Lượng dầu:   Không lọc: ~L - Có lọc: ~L"
   },
+  {
+    "id": "28",
+    "hangxe": "Toyota",
+    "tenxe": "LandCruiser",
+    "doixe": "2003-2007",
+    "content": "THÔNG TIN: \n
+    \n* PHIÊN BẢN: Máy xăng - SUV
+    \n+ Ắc quy:  
+    \n+ Bóng đèn:  
+    \n+ Gạt mưa trước:  
+    \n+ Gạt mưa sau:  
+    \n+ Lốp:  
+    \n+ Lọc nhớt:  
+    \n+ Lượng dầu:   Không lọc: ~ L - Có lọc: ~ L"
+  },
+  {
+    "id": "29",
+    "hangxe": "Toyota",
+    "tenxe": "LandCruiser",
+    "doixe": "2008-2015",
+    "content": "THÔNG TIN: \n
+    \n* PHIÊN BẢN: Máy xăng - SUV
+    \n+ Ắc quy:  
+    \n+ Bóng đèn:  
+    \n+ Gạt mưa trước:  
+    \n+ Gạt mưa sau:  
+    \n+ Lốp:  
+    \n+ Lọc nhớt:  
+    \n+ Lượng dầu:   Không lọc: ~ L - Có lọc: ~ L"
+  },
+  {
+    "id": "30",
+    "hangxe": "Toyota",
+    "tenxe": "LandCruiser",
+    "doixe": "2016-nay",
+    "content": "THÔNG TIN: \n
+    \n* PHIÊN BẢN: Máy xăng - SUV
+    \n+ Ắc quy:  
+    \n+ Bóng đèn:  
+    \n+ Gạt mưa trước:  
+    \n+ Gạt mưa sau:  
+    \n+ Lốp:  
+    \n+ Lọc nhớt:  YZZA4-giấy
+    \n+ Lượng dầu:   Không lọc: ~ L - Có lọc: ~7.8L"
+  },
 ]
