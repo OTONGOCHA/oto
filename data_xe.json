@@ -1804,20 +1804,140 @@
     "content": "THÔNG TIN: \n
     \n* PHIÊN BẢN: Máy xăng - Sedan
     \n+ Ắc quy:  50Ah L: vuông, thấp, cọc to, nổi
-    \n+ Bóng đèn:  
+    \n+ Bóng đèn:  Pha H7 - Cos
     \n+ Gạt mưa trước:  24 ; 18 
     \n+ Gạt mưa sau:  
-    \n+ Lốp:  
+    \n+ Lốp:  195/65R15
     \n+ Lọc nhớt:  034
     \n+ Lượng dầu:   Không lọc: ~2.5L - Có lọc: ~3.0L
     \n
-    \n* PHIÊN BẢN: Máy xăng - Sedan
-    \n+ Ắc quy:  50Ah L: vuông, thấp, cọc to, nổi
+    \n* PHIÊN BẢN: 
+    \n+ Ắc quy:  
     \n+ Bóng đèn:  
-    \n+ Gạt mưa trước:  26 ; 16
+    \n+ Gạt mưa trước:  
     \n+ Gạt mưa sau:  
-    \n+ Lốp:  195/55R16
+    \n+ Lốp:  
     \n+ Lọc nhớt:  
-    \n+ Lượng dầu:  Không lọc: ~3L - Có lọc: ~3.5L"
+    \n+ Lượng dầu:  Không lọc: ~L - Có lọc: ~L"
+  },
+  {
+    "id": "101",
+    "hangxe": "Huyndai",
+    "tenxe": "Elantra",
+    "doixe": "2011-2016",
+    "content": "THÔNG TIN: \n
+    \n* PHIÊN BẢN: 2011-2015 - Máy xăng - Sedan
+    \n+ Ắc quy:  
+    \n+ Bóng đèn:  Pha H7 - Cos bi xenon HB3
+    \n+ Gạt mưa trước:  26 ; 14 
+    \n+ Gạt mưa sau:  
+    \n+ Lốp:  215/45R17
+    \n+ Lọc nhớt:  
+    \n+ Lượng dầu:   Không lọc: ~4L - Có lọc: ~4.5L
+    \n
+    \n* PHIÊN BẢN: 2015-2016 - Máy xăng - Sedan
+    \n+ Ắc quy:  
+    \n+ Bóng đèn:  
+    \n+ Gạt mưa trước:  
+    \n+ Gạt mưa sau:  
+    \n+ Lốp:  
+    \n+ Lọc nhớt:  
+    \n+ Lượng dầu:  Không lọc: ~L - Có lọc: ~L"
+  },
+  {
+    "id": "102",
+    "hangxe": "Huyndai",
+    "tenxe": "Elantra",
+    "doixe": "2017-nay",
+    "content": "THÔNG TIN: \n
+    \n* PHIÊN BẢN: Máy xăng - Sedan
+    \n+ Ắc quy:  
+    \n+ Bóng đèn:  Pha - Cos
+    \n+ Gạt mưa trước:  26 ; 16 
+    \n+ Gạt mưa sau:  
+    \n+ Lốp:  205/55R16 91W
+    \n+ Lọc nhớt:  
+    \n+ Lượng dầu:   Không lọc: ~L - Có lọc: ~L"
+  },
+  {
+    "id": "103",
+    "hangxe": "Huyndai",
+    "tenxe": "Getz/Click",
+    "doixe": "2003-2011",
+    "content": "THÔNG TIN: \n
+    \n* PHIÊN BẢN: 1.1 - Máy xăng - Hatchback
+    \n+ Ắc quy:  50Ah L: vuông, thấp, cọc to, nổi
+    \n+ Bóng đèn:  Pha Cos chung H4
+    \n+ Gạt mưa trước:  24 ; 14 
+    \n+ Gạt mưa sau:  14
+    \n+ Lốp:  165/65R14
+    \n+ Lọc nhớt:  208
+    \n+ Lượng dầu:   Không lọc: ~2.5L - Có lọc: ~3L
+    \n
+    \n* PHIÊN BẢN: 1.4 - Máy xăng - Hatchback
+    \n+ Ắc quy:  
+    \n+ Bóng đèn:  
+    \n+ Gạt mưa trước:  
+    \n+ Gạt mưa sau:  
+    \n+ Lốp:  
+    \n+ Lọc nhớt:  
+    \n+ Lượng dầu:  Không lọc: ~L - Có lọc: ~L"
+  },
+  {
+    "id": "104",
+    "hangxe": "Huyndai",
+    "tenxe": "i10",
+    "doixe": "2007-2012",
+    "content": "THÔNG TIN: \n
+    \n* PHIÊN BẢN: Máy xăng - Hatchback
+    \n+ Ắc quy:  35Ah L: cọc nhỏ, có đế
+    \n+ Bóng đèn:  Pha Cos chung H4
+    \n+ Gạt mưa trước:  20 ; 16 
+    \n+ Gạt mưa sau:  12
+    \n+ Lốp:  165/60R14
+    \n+ Lọc nhớt:  208
+    \n+ Lượng dầu:   Không lọc: ~L - Có lọc: ~L"
+  },
+  {
+    "id": "105",
+    "hangxe": "Huyndai",
+    "tenxe": "i10",
+    "doixe": "2014-2016",
+    "content": "THÔNG TIN: \n
+    \n* PHIÊN BẢN: 1.0 - Máy xăng - Hatchback
+    \n+ Ắc quy:  35Ah L: cọc nhỏ, có đế
+    \n+ Bóng đèn:  Pha Cos chung H4
+    \n+ Gạt mưa trước:  22 ; 16 
+    \n+ Gạt mưa sau:  12
+    \n+ Lốp:  165/65R14
+    \n+ Lọc nhớt:  208
+    \n+ Lượng dầu:   Không lọc: ~2.2L - Có lọc: ~2.8L
+    \n
+    \n* PHIÊN BẢN: 1.2 - Máy xăng - Hatchback
+    \n+ Ắc quy:  
+    \n+ Bóng đèn:  
+    \n+ Gạt mưa trước:  
+    \n+ Gạt mưa sau:  
+    \n+ Lốp:  
+    \n+ Lọc nhớt:  208
+    \n+ Lượng dầu:  Không lọc: ~L - Có lọc: ~3.3L
+    \n
+    \n* PHIÊN BẢN: 1.0 - Máy xăng - Sedan
+    \n+ Ắc quy:  
+    \n+ Bóng đèn:  
+    \n+ Gạt mưa trước:  
+    \n+ Gạt mưa sau:  
+    \n+ Lốp:  
+    \n+ Lọc nhớt:  
+    \n+ Lượng dầu:  Không lọc: ~L - Có lọc: ~L
+    \n
+    \n* PHIÊN BẢN: 1.2 - Máy xăng - Sedan
+    \n+ Ắc quy:  
+    \n+ Bóng đèn:  
+    \n+ Gạt mưa trước:  
+    \n+ Gạt mưa sau:  
+    \n+ Lốp:  
+    \n+ Lọc nhớt:  
+    \n+ Lượng dầu:  Không lọc: ~L - Có lọc: ~L"
   },
 ]
