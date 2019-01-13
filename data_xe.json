@@ -2285,4 +2285,319 @@
     \n+ Lọc nhớt:  208
     \n+ Lượng dầu:   Không lọc: ~2.8L - Có lọc: ~3.2L"
   },
+  {
+    "id": "123",
+    "hangxe": "Kia",
+    "tenxe": "Carens",
+    "doixe": "2008-2014",
+    "content": "THÔNG TIN: \n
+    \n* PHIÊN BẢN: Máy xăng
+    \n+ Ắc quy:  
+    \n+ Bóng đèn:  
+    \n+ Gạt mưa trước:   
+    \n+ Gạt mưa sau:  
+    \n+ Lốp:  
+    \n+ Lọc nhớt:  034
+    \n+ Lượng dầu:   Không lọc: ~L - Có lọc: ~4.2L
+    \n
+    \n* PHIÊN BẢN: Máy dầu
+    \n+ Ắc quy:  
+    \n+ Bóng đèn:  
+    \n+ Gạt mưa trước:  
+    \n+ Gạt mưa sau:  
+    \n+ Lốp:  
+    \n+ Lọc nhớt:  
+    \n+ Lượng dầu:  Không lọc: ~L - Có lọc: ~L"
+  },
+  {
+    "id": "124",
+    "hangxe": "Kia",
+    "tenxe": "Cerato/Forte",
+    "doixe": "2008-2012",
+    "content": "THÔNG TIN: \n
+    \n* PHIÊN BẢN: Máy xăng - Sedan
+    \n+ Ắc quy:  
+    \n+ Bóng đèn:  
+    \n+ Gạt mưa trước:   
+    \n+ Gạt mưa sau:  
+    \n+ Lốp:  
+    \n+ Lọc nhớt:  034
+    \n+ Lượng dầu:   Không lọc: ~L - Có lọc: ~3L"
+  },
+  {
+    "id": "125",
+    "hangxe": "Kia",
+    "tenxe": "Cerato/K3",
+    "doixe": "Cerato 2017/K3 2013-2016",
+    "content": "THÔNG TIN: \n
+    \n* PHIÊN BẢN: Máy xăng
+    \n+ Ắc quy:  60Ah L: cọc chìm
+    \n+ Bóng đèn:  Pha H7 - Cos bi, bóng H7
+    \n+ Gạt mưa trước:   26 ; 14
+    \n+ Gạt mưa sau:  
+    \n+ Lốp:  215/45R17
+    \n+ Lọc nhớt:  034
+    \n+ Lượng dầu:   Không lọc: ~2.8L - Có lọc: ~3.2L"
+  },
+  {
+    "id": "126",
+    "hangxe": "Kia",
+    "tenxe": "Morning",
+    "doixe": "2005-2011",
+    "content": "THÔNG TIN: \n
+    \n* PHIÊN BẢN: Máy xăng - Tự động - Hatchback
+    \n+ Ắc quy:  35Ah: có đế
+    \n+ Bóng đèn:  
+    \n+ Gạt mưa trước:   22 ; 16
+    \n+ Gạt mưa sau:  12
+    \n+ Lốp:  
+    \n+ Lọc nhớt:  208
+    \n+ Lượng dầu:   Không lọc: ~L - Có lọc: ~2.8L
+    \n
+    \n* PHIÊN BẢN: Máy xăng - Số sàn - Hatchback
+    \n+ Ắc quy:  
+    \n+ Bóng đèn:  
+    \n+ Gạt mưa trước:  22 ; 16
+    \n+ Gạt mưa sau:  
+    \n+ Lốp:  
+    \n+ Lọc nhớt:  208
+    \n+ Lượng dầu:  Không lọc: ~2.5L - Có lọc: ~L
+    \n
+    \n* PHIÊN BẢN: Máy xăng - VAN
+    \n+ Ắc quy:  
+    \n+ Bóng đèn:  
+    \n+ Gạt mưa trước:  
+    \n+ Gạt mưa sau:  
+    \n+ Lốp:  155/70R13
+    \n+ Lọc nhớt:  
+    \n+ Lượng dầu:  Không lọc: ~L - Có lọc: ~L"
+  },
+  {
+    "id": "127",
+    "hangxe": "Kia",
+    "tenxe": "Morning",
+    "doixe": "2012-2013",
+    "content": "THÔNG TIN: \n
+    \n* PHIÊN BẢN: Máy xăng - Hatchback
+    \n+ Ắc quy:  
+    \n+ Bóng đèn:  
+    \n+ Gạt mưa trước:   22 ; 16
+    \n+ Gạt mưa sau:  
+    \n+ Lốp:  
+    \n+ Lọc nhớt:  
+    \n+ Lượng dầu:   Không lọc: ~2.5L - Có lọc: ~L"
+  },
+  {
+    "id": "128",
+    "hangxe": "Kia",
+    "tenxe": "Morning",
+    "doixe": "2013-2014",
+    "content": "THÔNG TIN: \n
+    \n* PHIÊN BẢN: Máy xăng - Hatchback
+    \n+ Ắc quy:  
+    \n+ Bóng đèn:  
+    \n+ Gạt mưa trước:   
+    \n+ Gạt mưa sau:  
+    \n+ Lốp:  
+    \n+ Lọc nhớt:  
+    \n+ Lượng dầu:   Không lọc: ~L - Có lọc: ~L"
+  },
+  {
+    "id": "129",
+    "hangxe": "Kia",
+    "tenxe": "Morning",
+    "doixe": "2016-2017",
+    "content": "THÔNG TIN: \n
+    \n* PHIÊN BẢN: Máy xăng - Hatchback
+    \n+ Ắc quy:  
+    \n+ Bóng đèn:  
+    \n+ Gạt mưa trước:   
+    \n+ Gạt mưa sau:  
+    \n+ Lốp:  
+    \n+ Lọc nhớt:  
+    \n+ Lượng dầu:   Không lọc: ~L - Có lọc: ~L"
+  },
+  {
+    "id": "130",
+    "hangxe": "Kia",
+    "tenxe": "Morning",
+    "doixe": "2018-nay",
+    "content": "THÔNG TIN: \n
+    \n* PHIÊN BẢN: Máy xăng - Hatchback
+    \n+ Ắc quy:  
+    \n+ Bóng đèn:  
+    \n+ Gạt mưa trước:   24 ; 14
+    \n+ Gạt mưa sau:  
+    \n+ Lốp:  
+    \n+ Lọc nhớt:  
+    \n+ Lượng dầu:   Không lọc: ~L - Có lọc: ~L"
+  },
+  {
+    "id": "131",
+    "hangxe": "Kia",
+    "tenxe": "Rio",
+    "doixe": "2013-nay",
+    "content": "THÔNG TIN: \n
+    \n* PHIÊN BẢN: Máy xăng - Hatchback
+    \n+ Ắc quy:  
+    \n+ Bóng đèn:  Pha Cos chung H4
+    \n+ Gạt mưa trước:   26 ; 16
+    \n+ Gạt mưa sau:  11
+    \n+ Lốp:  
+    \n+ Lọc nhớt:  034
+    \n+ Lượng dầu:   Không lọc: ~3L - Có lọc: ~3.5L
+    \n
+    \n* PHIÊN BẢN: Máy xăng - Sedan
+    \n+ Ắc quy:  
+    \n+ Bóng đèn:  
+    \n+ Gạt mưa trước:  
+    \n+ Gạt mưa sau:  
+    \n+ Lốp:  185/65R15
+    \n+ Lọc nhớt:  
+    \n+ Lượng dầu:  Không lọc: ~L - Có lọc: ~L"
+  },
+  {
+    "id": "132",
+    "hangxe": "Kia",
+    "tenxe": "Rondo",
+    "doixe": "2015-nay",
+    "content": "THÔNG TIN: \n
+    \n* PHIÊN BẢN: Máy xăng - SUV
+    \n+ Ắc quy:  
+    \n+ Bóng đèn:  Pha H7 - Cos bi, bóng H7
+    \n+ Gạt mưa trước:   28 ; 18
+    \n+ Gạt mưa sau:  11
+    \n+ Lốp:  
+    \n+ Lọc nhớt:  
+    \n+ Lượng dầu:   Không lọc: ~L - Có lọc: ~L
+    \n
+    \n* PHIÊN BẢN: Máy dầu - SUV
+    \n+ Ắc quy:  
+    \n+ Bóng đèn:  
+    \n+ Gạt mưa trước:  
+    \n+ Gạt mưa sau:  
+    \n+ Lốp:  
+    \n+ Lọc nhớt:  
+    \n+ Lượng dầu:  Không lọc: ~L - Có lọc: ~L"
+  },
+  {
+    "id": "133",
+    "hangxe": "Kia",
+    "tenxe": "Sorento",
+    "doixe": "2008-2012",
+    "content": "THÔNG TIN: \n
+    \n* PHIÊN BẢN: Máy xăng - SUV
+    \n+ Ắc quy:  
+    \n+ Bóng đèn:  
+    \n+ Gạt mưa trước:   
+    \n+ Gạt mưa sau:  
+    \n+ Lốp:  
+    \n+ Lọc nhớt:  
+    \n+ Lượng dầu:   Không lọc: ~L - Có lọc: ~L
+    \n
+    \n* PHIÊN BẢN: Máy dầu - SUV
+    \n+ Ắc quy:  
+    \n+ Bóng đèn:  
+    \n+ Gạt mưa trước:  
+    \n+ Gạt mưa sau:  
+    \n+ Lốp:  
+    \n+ Lọc nhớt:  
+    \n+ Lượng dầu:  Không lọc: ~L - Có lọc: ~L"
+  },
+  {
+    "id": "134",
+    "hangxe": "Kia",
+    "tenxe": "Sorento",
+    "doixe": "2013-2014",
+    "content": "THÔNG TIN: \n
+    \n* PHIÊN BẢN: Máy xăng - SUV
+    \n+ Ắc quy:  
+    \n+ Bóng đèn:  
+    \n+ Gạt mưa trước:   
+    \n+ Gạt mưa sau:  
+    \n+ Lốp:  235/60R18
+    \n+ Lọc nhớt:  034
+    \n+ Lượng dầu:   Không lọc: ~5L - Có lọc: ~5.6L
+    \n
+    \n* PHIÊN BẢN: Máy dầu - SUV
+    \n+ Ắc quy:  
+    \n+ Bóng đèn:  
+    \n+ Gạt mưa trước:  
+    \n+ Gạt mưa sau:  
+    \n+ Lốp:  
+    \n+ Lọc nhớt:  096-giấy
+    \n+ Lượng dầu:  Không lọc: ~L - Có lọc: ~6.5L"
+  },
+  {
+    "id": "135",
+    "hangxe": "Kia",
+    "tenxe": "Sorento",
+    "doixe": "2015-nay",
+    "content": "THÔNG TIN: \n
+    \n* PHIÊN BẢN: Máy xăng - SUV
+    \n+ Ắc quy:  
+    \n+ Bóng đèn:  
+    \n+ Gạt mưa trước:   
+    \n+ Gạt mưa sau:  
+    \n+ Lốp:  
+    \n+ Lọc nhớt:  
+    \n+ Lượng dầu:   Không lọc: ~L - Có lọc: ~L
+    \n
+    \n* PHIÊN BẢN: Máy dầu - SUV
+    \n+ Ắc quy:  
+    \n+ Bóng đèn:  
+    \n+ Gạt mưa trước:  
+    \n+ Gạt mưa sau:  
+    \n+ Lốp:  
+    \n+ Lọc nhớt:  
+    \n+ Lượng dầu:  Không lọc: ~L - Có lọc: ~L"
+  },
+  {
+    "id": "136",
+    "hangxe": "Kia",
+    "tenxe": "Sportage",
+    "doixe": "2011-2014",
+    "content": "THÔNG TIN: \n
+    \n* PHIÊN BẢN: Máy xăng - SUV
+    \n+ Ắc quy:  
+    \n+ Bóng đèn:  
+    \n+ Gạt mưa trước:   
+    \n+ Gạt mưa sau:  
+    \n+ Lốp:  
+    \n+ Lọc nhớt:  
+    \n+ Lượng dầu:   Không lọc: ~L - Có lọc: ~L
+    \n
+    \n* PHIÊN BẢN: Máy dầu - SUV
+    \n+ Ắc quy:  
+    \n+ Bóng đèn:  
+    \n+ Gạt mưa trước:  
+    \n+ Gạt mưa sau:  
+    \n+ Lốp:  
+    \n+ Lọc nhớt:  
+    \n+ Lượng dầu:  Không lọc: ~L - Có lọc: ~L"
+  },
+  {
+    "id": "137",
+    "hangxe": "Kia",
+    "tenxe": "Sportage",
+    "doixe": "2015-nay",
+    "content": "THÔNG TIN: \n
+    \n* PHIÊN BẢN: Máy xăng - SUV
+    \n+ Ắc quy:  
+    \n+ Bóng đèn:  
+    \n+ Gạt mưa trước:   
+    \n+ Gạt mưa sau:  
+    \n+ Lốp:  
+    \n+ Lọc nhớt:  
+    \n+ Lượng dầu:   Không lọc: ~L - Có lọc: ~L
+    \n
+    \n* PHIÊN BẢN: Máy dầu - SUV
+    \n+ Ắc quy:  
+    \n+ Bóng đèn:  
+    \n+ Gạt mưa trước:  
+    \n+ Gạt mưa sau:  
+    \n+ Lốp:  
+    \n+ Lọc nhớt:  
+    \n+ Lượng dầu:  Không lọc: ~L - Có lọc: ~L"
+  },
 ]
