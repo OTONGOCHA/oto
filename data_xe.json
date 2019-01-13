@@ -2156,7 +2156,7 @@
     "tenxe": "SantaFe",
     "doixe": "2016-nay",
     "content": "THÔNG TIN: \n
-    \n* PHIÊN BẢN: Máy xăng - SUV
+    \n* PHIÊN BẢN: Máy xăng - CUV
     \n+ Ắc quy:  70Ah L: cọc to, có đế
     \n+ Bóng đèn:  
     \n+ Gạt mưa trước:   26 ; 14
@@ -2165,7 +2165,7 @@
     \n+ Lọc nhớt:  
     \n+ Lượng dầu:   Không lọc: ~L - Có lọc: ~L
     \n
-    \n* PHIÊN BẢN: Máy dầu - SUV
+    \n* PHIÊN BẢN: Máy dầu - CUV
     \n+ Ắc quy:  90Ah L: cọc chìm
     \n+ Bóng đèn:  
     \n+ Gạt mưa trước:  
@@ -2190,6 +2190,78 @@
     \n+ Lượng dầu:   Không lọc: ~L - Có lọc: ~L
     \n
     \n* PHIÊN BẢN: Máy xăng - Sedan
+    \n+ Ắc quy:  
+    \n+ Bóng đèn:  
+    \n+ Gạt mưa trước:  
+    \n+ Gạt mưa sau:  
+    \n+ Lốp:  
+    \n+ Lọc nhớt:  
+    \n+ Lượng dầu:  Không lọc: ~L - Có lọc: ~L"
+  },
+  {
+    "id": "119",
+    "hangxe": "Huyndai",
+    "tenxe": "Tucson",
+    "doixe": "2007-2009",
+    "content": "THÔNG TIN: \n
+    \n* PHIÊN BẢN: Máy xăng - SUV
+    \n+ Ắc quy:  
+    \n+ Bóng đèn:  
+    \n+ Gạt mưa trước:   
+    \n+ Gạt mưa sau:  
+    \n+ Lốp:  
+    \n+ Lọc nhớt:  
+    \n+ Lượng dầu:   Không lọc: ~L - Có lọc: ~L
+    \n
+    \n* PHIÊN BẢN: Máy dầu - SUV
+    \n+ Ắc quy:  
+    \n+ Bóng đèn:  
+    \n+ Gạt mưa trước:  
+    \n+ Gạt mưa sau:  
+    \n+ Lốp:  
+    \n+ Lọc nhớt:  
+    \n+ Lượng dầu:  Không lọc: ~L - Có lọc: ~L"
+  },
+  {
+    "id": "120",
+    "hangxe": "Huyndai",
+    "tenxe": "Tucson",
+    "doixe": "2010-2015",
+    "content": "THÔNG TIN: \n
+    \n* PHIÊN BẢN: Máy xăng - CUV
+    \n+ Ắc quy:  60Ah L: cọc to
+    \n+ Bóng đèn:  Bi HB4
+    \n+ Gạt mưa trước:   24 ; 16
+    \n+ Gạt mưa sau:  
+    \n+ Lốp:  225/55R18
+    \n+ Lọc nhớt:  26320-2F200
+    \n+ Lượng dầu:   Không lọc: ~L - Có lọc: ~L
+    \n
+    \n* PHIÊN BẢN: Máy dầu - CUV
+    \n+ Ắc quy:  90Ah R
+    \n+ Bóng đèn:  
+    \n+ Gạt mưa trước:  
+    \n+ Gạt mưa sau:  
+    \n+ Lốp:  235/55R18
+    \n+ Lọc nhớt:  
+    \n+ Lượng dầu:  Không lọc: ~8.5L - Có lọc: ~9L"
+  },
+  {
+    "id": "121",
+    "hangxe": "Huyndai",
+    "tenxe": "Tucson",
+    "doixe": "2016-nay",
+    "content": "THÔNG TIN: \n
+    \n* PHIÊN BẢN: 2.0 - Máy xăng - SUV
+    \n+ Ắc quy:  60Ah
+    \n+ Bóng đèn:  Pha H7 - Cos bixenon H
+    \n+ Gạt mưa trước:   26 ; 16
+    \n+ Gạt mưa sau:  
+    \n+ Lốp:  
+    \n+ Lọc nhớt:  034
+    \n+ Lượng dầu:   Không lọc: ~4L - Có lọc: ~4.5L
+    \n
+    \n* PHIÊN BẢN: 2.0 - Máy dầu - SUV
     \n+ Ắc quy:  
     \n+ Bóng đèn:  
     \n+ Gạt mưa trước:  
