@@ -2252,7 +2252,7 @@
     "tenxe": "Tucson",
     "doixe": "2016-nay",
     "content": "THÔNG TIN: \n
-    \n* PHIÊN BẢN: 2.0 - Máy xăng - SUV
+    \n* PHIÊN BẢN: 2.0 - Máy xăng - Crossover
     \n+ Ắc quy:  60Ah
     \n+ Bóng đèn:  Pha H7 - Cos bixenon H
     \n+ Gạt mưa trước:   26 ; 16
@@ -2261,7 +2261,7 @@
     \n+ Lọc nhớt:  034
     \n+ Lượng dầu:   Không lọc: ~4L - Có lọc: ~4.5L
     \n
-    \n* PHIÊN BẢN: 2.0 - Máy dầu - SUV
+    \n* PHIÊN BẢN: 2.0 - Máy dầu - Crossover
     \n+ Ắc quy:  
     \n+ Bóng đèn:  
     \n+ Gạt mưa trước:  
@@ -2269,5 +2269,20 @@
     \n+ Lốp:  
     \n+ Lọc nhớt:  
     \n+ Lượng dầu:  Không lọc: ~L - Có lọc: ~L"
+  },
+  {
+    "id": "122",
+    "hangxe": "Huyndai",
+    "tenxe": "Verna",
+    "doixe": "2008",
+    "content": "THÔNG TIN: \n
+    \n* PHIÊN BẢN: Máy xăng - Sedan
+    \n+ Ắc quy:  
+    \n+ Bóng đèn:  
+    \n+ Gạt mưa trước:   22 ; 16
+    \n+ Gạt mưa sau:  
+    \n+ Lốp:  
+    \n+ Lọc nhớt:  208
+    \n+ Lượng dầu:   Không lọc: ~2.8L - Có lọc: ~3.2L"
   },
 ]
