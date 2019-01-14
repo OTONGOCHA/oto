@@ -844,7 +844,7 @@
   },
   {
     "id": "46",
-    "hangxe": "Chevrolet - Deawoo",
+    "hangxe": "Chevrolet - Daewoo",
     "tenxe": "Captiva",
     "doixe": "2007-2010",
     "content": "THÔNG TIN: \n
@@ -859,7 +859,7 @@
   },
   {
     "id": "47",
-    "hangxe": "Chevrolet - Deawoo",
+    "hangxe": "Chevrolet - Daewoo",
     "tenxe": "Captiva",
     "doixe": "2016-nay",
     "content": "THÔNG TIN: \n
@@ -874,7 +874,7 @@
   },
   {
     "id": "48",
-    "hangxe": "Chevrolet - Deawoo",
+    "hangxe": "Chevrolet - Daewoo",
     "tenxe": "Colorado",
     "doixe": "2012-2014",
     "content": "THÔNG TIN: \n
@@ -889,7 +889,7 @@
   },
   {
     "id": "49",
-    "hangxe": "Chevrolet - Deawoo",
+    "hangxe": "Chevrolet - Daewoo",
     "tenxe": "Colorado",
     "doixe": "2015-nay",
     "content": "THÔNG TIN: \n
@@ -904,7 +904,7 @@
   },
   {
     "id": "50",
-    "hangxe": "Chevrolet - Deawoo",
+    "hangxe": "Chevrolet - Daewoo",
     "tenxe": "Gentra",
     "doixe": "2006-2012",
     "content": "THÔNG TIN: \n
@@ -919,7 +919,7 @@
   },
   {
     "id": "51",
-    "hangxe": "Chevrolet - Deawoo",
+    "hangxe": "Chevrolet - Daewoo",
     "tenxe": "Gentra",
     "doixe": "Aveo 2013-nay",
     "content": "THÔNG TIN: \n
@@ -934,7 +934,7 @@
   },
   {
     "id": "52",
-    "hangxe": "Chevrolet - Deawoo",
+    "hangxe": "Chevrolet - Daewoo",
     "tenxe": "Gentra X",
     "doixe": "2008-2011",
     "content": "THÔNG TIN: \n
@@ -949,7 +949,7 @@
   },
   {
     "id": "53",
-    "hangxe": "Chevrolet - Deawoo",
+    "hangxe": "Chevrolet - Daewoo",
     "tenxe": "Lacetti LD",
     "doixe": "2004-2006",
     "content": "THÔNG TIN: \n
@@ -964,7 +964,7 @@
   },
   {
     "id": "54",
-    "hangxe": "Chevrolet - Deawoo",
+    "hangxe": "Chevrolet - Daewoo",
     "tenxe": "Lacetti LD",
     "doixe": "2007-nay",
     "content": "THÔNG TIN: \n
@@ -979,7 +979,7 @@
   },
   {
     "id": "55",
-    "hangxe": "Chevrolet - Deawoo",
+    "hangxe": "Chevrolet - Daewoo",
     "tenxe": "Lacetti NK",
     "doixe": "2009-2012",
     "content": "THÔNG TIN: \n
@@ -994,7 +994,7 @@
   },
   {
     "id": "56",
-    "hangxe": "Chevrolet - Deawoo",
+    "hangxe": "Chevrolet - Daewoo",
     "tenxe": "Lacetti NK",
     "doixe": "Cruze 2013-nay",
     "content": "THÔNG TIN: \n
@@ -1009,7 +1009,7 @@
   },
   {
     "id": "57",
-    "hangxe": "Chevrolet - Deawoo",
+    "hangxe": "Chevrolet - Daewoo",
     "tenxe": "MU-X",
     "doixe": "2017-nay",
     "content": "THÔNG TIN: \n
@@ -1024,7 +1024,7 @@
   },
   {
     "id": "58",
-    "hangxe": "Chevrolet - Deawoo",
+    "hangxe": "Chevrolet - Daewoo",
     "tenxe": "Spark",
     "doixe": "2005-2011",
     "content": "THÔNG TIN: \n
@@ -1039,7 +1039,7 @@
   },
   {
     "id": "59",
-    "hangxe": "Chevrolet - Deawoo",
+    "hangxe": "Chevrolet - Daewoo",
     "tenxe": "Spark",
     "doixe": "2015-nay",
     "content": "THÔNG TIN: \n
@@ -1054,9 +1054,24 @@
   },
   {
     "id": "60",
-    "hangxe": "Chevrolet - Deawoo",
+    "hangxe": "Chevrolet - Daewoo",
     "tenxe": "Trax",
     "doixe": "2017-nay",
+    "content": "THÔNG TIN: \n
+    \n* PHIÊN BẢN: Máy xăng - SUV
+    \n+ Ắc quy:  
+    \n+ Bóng đèn:  
+    \n+ Gạt mưa trước:  
+    \n+ Gạt mưa sau:  
+    \n+ Lốp:  
+    \n+ Lọc nhớt:  
+    \n+ Lượng dầu:   Không lọc: ~L - Có lọc: ~L"
+  },
+  {
+    "id": "209",
+    "hangxe": "Chevrolet - Daewoo",
+    "tenxe": "Trailblazer",
+    "doixe": "2018-nay",
     "content": "THÔNG TIN: \n
     \n* PHIÊN BẢN: Máy xăng - SUV
     \n+ Ắc quy:  
@@ -3776,20 +3791,4 @@
     \n+ Lọc nhớt:  
     \n+ Lượng dầu:   Không lọc: ~L - Có lọc: ~L"
   },
-  {
-    "id": "209",
-    "hangxe": "Chevrolet - Deawoo",
-    "tenxe": "Trailblazer",
-    "doixe": "2018-nay",
-    "content": "THÔNG TIN: \n
-    \n* PHIÊN BẢN: Máy xăng - SUV
-    \n+ Ắc quy:  
-    \n+ Bóng đèn:  
-    \n+ Gạt mưa trước:  
-    \n+ Gạt mưa sau:  
-    \n+ Lốp:  
-    \n+ Lọc nhớt:  
-    \n+ Lượng dầu:   Không lọc: ~L - Có lọc: ~L"
-  },
-  
-]
+  ]
