@@ -3228,7 +3228,7 @@
     "id": "173",
     "hangxe": "Nissan",
     "tenxe": "X-trail",
-    "doixe": "2010-2016",
+    "doixe": "2017-nay",
     "content": "THÔNG TIN: \n
     \n* PHIÊN BẢN: Máy xăng - SUV
     \n+ Ắc quy:  62Ah L: cọc to, nổi
@@ -3247,5 +3247,20 @@
     \n+ Lốp:  225/60R18
     \n+ Lọc nhớt:  
     \n+ Lượng dầu:  Không lọc: ~L - Có lọc: ~L"
+  },
+  {
+    "id": "174",
+    "hangxe": "Suzuki",
+    "tenxe": "Ciaz",
+    "doixe": "2014-nay",
+    "content": "THÔNG TIN: \n
+    \n* PHIÊN BẢN: Máy xăng - Sedan
+    \n+ Ắc quy:  35Ah L: cọc to, nổi
+    \n+ Bóng đèn:  Pha H7 - Cos bi, bóng H11
+    \n+ Gạt mưa trước:   24 ; 16
+    \n+ Gạt mưa sau:  
+    \n+ Lốp:  195/55R16
+    \n+ Lọc nhớt:  
+    \n+ Lượng dầu:   Không lọc: ~L - Có lọc: ~L"
   },
 ]
